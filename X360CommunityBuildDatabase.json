@@ -10,8 +10,6 @@
     "XEXName": "default.xex",
     "XEXSize": "1523400",
     "XEXLink": "http://example.com/default.xex",
-    "ContentHash": "def456",
-    "ContentName": "ContentPackage",
     "ContentSize": "1048576",
     "ContentLink": "http://example.com/content.pkg",
     "PatchHash": "ghi789",
