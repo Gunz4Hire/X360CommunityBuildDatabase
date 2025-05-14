@@ -2,49 +2,45 @@
   "Builds": [
     {
       "TitleID": "4D5307E6",
-      "Name": "Sample Game Alpha",
-      "BuildVersion": "0.1.1024.0",
+      "Title": "Sample Game Alpha",
+      "MediaID": "00000000",
+      "Version": "0.1.1024.0",
       "BuildDate": "2007-10-24",
-      "ExecutableName": "default.xex",
-      "ExecutablePath": "D:\\Games\\SampleGameAlpha\\default.xex",
-      "XexInfo": {
-        "BaseFileName": "default.xex",
-        "TitleName": "Sample Game Alpha",
-        "TitleID": "4D5307E6",
-        "MediaID": "00000000",
-        "Platform": "Xbox360",
-        "Region": "NTSC-U",
-        "DiscNumber": 1,
-        "Version": "v0.1.1024.0"
-      },
-      "Tags": [
-        "alpha",
-        "internal",
-        "first-build"
-      ]
+      "Region": "NTSC-U",
+      "XEXHash": "abc123",
+      "XEXName": "default.xex",
+      "XEXSize": "1523400",
+      "XEXLink": "http://example.com/default.xex",
+      "ContentHash": "def456",
+      "ContentName": "ContentPackage",
+      "ContentSize": "1048576",
+      "ContentLink": "http://example.com/content.pkg",
+      "PatchHash": "ghi789",
+      "PatchName": "PatchData",
+      "PatchSize": "512000",
+      "PatchLink": "http://example.com/patch.dat",
+      "AdditionalInfo": "First test build of the Sample Game."
     },
     {
       "TitleID": "545408A7",
-      "Name": "Prototype Racer Beta",
-      "BuildVersion": "0.3.1202.0",
+      "Title": "Prototype Racer Beta",
+      "MediaID": "12345678",
+      "Version": "0.3.1202.0",
       "BuildDate": "2008-03-15",
-      "ExecutableName": "default.xex",
-      "ExecutablePath": "E:\\Devkits\\BetaBuilds\\ProtoRacer\\default.xex",
-      "XexInfo": {
-        "BaseFileName": "default.xex",
-        "TitleName": "Prototype Racer Beta",
-        "TitleID": "545408A7",
-        "MediaID": "12345678",
-        "Platform": "Xbox360",
-        "Region": "PAL",
-        "DiscNumber": 1,
-        "Version": "v0.3.1202.0"
-      },
-      "Tags": [
-        "beta",
-        "playable",
-        "milestone1"
-      ]
+      "Region": "PAL",
+      "XEXHash": "abc999",
+      "XEXName": "default.xex",
+      "XEXSize": "2048000",
+      "XEXLink": "http://example.com/protoracer.xex",
+      "ContentHash": "zzz000",
+      "ContentName": "RaceTracks",
+      "ContentSize": "2097152",
+      "ContentLink": "http://example.com/tracks.pkg",
+      "PatchHash": "xxx111",
+      "PatchName": "DayOnePatch",
+      "PatchSize": "102400",
+      "PatchLink": "http://example.com/patch1.dat",
+      "AdditionalInfo": "Milestone 1 - first playable beta of Prototype Racer."
     }
   ]
 }
