@@ -1,42 +1,4657 @@
-[
-  {
-    "TitleID": "4D5307E6",
-    "Title": "Sample Game Alpha",
-    "MediaID": "00000000",
-    "Version": "0.1.1024.0",
-    "BuildDate": "2007-10-24",
-    "Region": "NTSC-U",
-    "XEXHash": "abc123",
-    "XEXName": "default.xex",
-    "XEXSize": "1523400",
-    "XEXLink": "http://example.com/default.xex",
-    "ContentSize": "1048576",
-    "ContentLink": "http://example.com/content.pkg",
-    "PatchHash": "ghi789",
-    "PatchName": "PatchData",
-    "PatchSize": "512000",
-    "PatchLink": "http://example.com/patch.dat",
-    "AdditionalInfo": "First test build of the Sample Game."
-  },
-  {
-    "TitleID": "545408A7",
-    "Title": "Prototype Racer Beta",
-    "MediaID": "12345678",
-    "Version": "0.3.1202.0",
-    "BuildDate": "2008-03-15",
-    "Region": "PAL",
-    "XEXHash": "abc999",
-    "XEXName": "default.xex",
-    "XEXSize": "2048000",
-    "XEXLink": "http://example.com/protoracer.xex",
-    "ContentHash": "zzz000",
-    "ContentName": "RaceTracks",
-    "ContentSize": "2097152",
-    "ContentLink": "http://example.com/tracks.pkg",
-    "PatchHash": "xxx111",
-    "PatchName": "DayOnePatch",
-    "PatchSize": "102400",
-    "PatchLink": "http://example.com/patch1.dat",
-    "AdditionalInfo": "Milestone 1 - first playable beta of Prototype Racer."
+{
+  "X360CommunityBuildDatabase": {
+    "Games": [
+      {
+        "Title": "Ace Combat Assault Horizon",
+        "Build": "27575",
+        "Date": "July 11, 2011"
+      },
+      {
+        "Title": "Air Conflicts: Vietnam",
+        "Build": "",
+        "Date": "August 9, 2013",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "AirMech",
+        "Build": "",
+        "Date": "August 19, 2014"
+      },
+      {
+        "Title": "Alan Wake",
+        "Build": "",
+        "Date": "March 25, 2010"
+      },
+      {
+        "Title": "Alice: Madness Returns",
+        "Build": "503622",
+        "Date": "September 16, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Aliens Versus Predator 3",
+        "Build": "E3 Beta",
+        "Date": "May 26, 2009"
+      },
+      {
+        "Title": "Aliens Versus Predator 3",
+        "Build": "",
+        "Date": "June 08, 2010"
+      },
+      {
+        "Title": "Aliens Versus Predator 3",
+        "Build": "Submission Release",
+        "Date": "October 06, 2008"
+      },
+      {
+        "Title": "Alpha Protocol",
+        "Build": "",
+        "Date": "March 25, 2010"
+      },
+      {
+        "Title": "Army Of Two TDC",
+        "Build": "370183",
+        "Date": "January 25, 2013"
+      },
+      {
+        "Title": "Army Of Two TDC",
+        "Build": "",
+        "Date": "January 31, 2013"
+      },
+      {
+        "Title": "Assassin's Creed: Brotherhood",
+        "Build": "MP EGEXPO",
+        "Date": ""
+      },
+      {
+        "Title": "Assassin's Creed: Brotherhood",
+        "Build": "",
+        "Date": "October 11, 2010"
+      },
+      {
+        "Title": "Assassin's Creed",
+        "Build": "27.1.0",
+        "Date": "October 16, 2007"
+      },
+      {
+        "Title": "Assassin's Creed: Revelations",
+        "Build": "",
+        "Date": "June 19, 2011",
+        "Notes": "MP only, game doesn't load"
+      },
+      {
+        "Title": "Assassin's Creed: Revelations",
+        "Build": "",
+        "Date": "October 5, 2011"
+      },
+      {
+        "Title": "Assassin's Creed: Rogue",
+        "Build": "\"Comet\"",
+        "Date": "May 19, 2014"
+      },
+      {
+        "Title": "Assassin's Creed 3",
+        "Build": "",
+        "Date": "July 27, 2012",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Assassin's Creed 3",
+        "Build": "",
+        "Date": "September 8, 2012"
+      },
+      {
+        "Title": "Assassin's Creed 3",
+        "Build": "",
+        "Date": "September 25, 2012"
+      },
+      {
+        "Title": "Assassin's Creed 3",
+        "Build": "",
+        "Date": "December 13, 2012",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Assassin's Creed 4",
+        "Build": "",
+        "Date": "May 7, 2013"
+      },
+      {
+        "Title": "Assassin's Creed 4",
+        "Build": "",
+        "Date": "May 16, 2013",
+        "Notes": "MP ONLY"
+      },
+      {
+        "Title": "Assassin's Creed 4",
+        "Build": "",
+        "Date": "May 17, 2013"
+      },
+      {
+        "Title": "Assassin's Creed 4",
+        "Build": "",
+        "Date": "July 24, 2013"
+      },
+      {
+        "Title": "Avateers",
+        "Build": "Takehome Beta",
+        "Date": "March 31, 2010"
+      },
+      {
+        "Title": "Backyard Heroes",
+        "Build": "UE3-BAM",
+        "Date": "December 18, 2013"
+      },
+      {
+        "Title": "Backyard Heroes",
+        "Build": "UE3-MegaHalo-Release",
+        "Date": "December 02, 2013"
+      },
+      {
+        "Title": "BandFuse Rock Legends",
+        "Build": "",
+        "Date": "September 30, 2013"
+      },
+      {
+        "Title": "BandFuse Rock Legends",
+        "Build": "",
+        "Date": "December 14, 2013"
+      },
+      {
+        "Title": "BandFuse Rock Legends",
+        "Build": "",
+        "Date": "February 03, 2014"
+      },
+      {
+        "Title": "Batman Arkham City",
+        "Build": "",
+        "Date": "January 20, 2012"
+      },
+      {
+        "Title": "Batman Arkham Origins",
+        "Build": "Ozzy-360-Campaign-042513",
+        "Date": "April 25, 2013"
+      },
+      {
+        "Title": "Batman Arkham Origins",
+        "Build": "TGS_WATKPA3",
+        "Date": "December 06, 2012"
+      },
+      {
+        "Title": "Batman Arkham Origins",
+        "Build": "",
+        "Date": "February 01, 2013"
+      },
+      {
+        "Title": "Batman Arkham Origins",
+        "Build": "",
+        "Date": "July 23, 2013"
+      },
+      {
+        "Title": "Batman Arkham Origins",
+        "Build": "Ozzy-360-Campaign-031413",
+        "Date": "March 14, 2013"
+      },
+      {
+        "Title": "Batman Arkham Origins Online",
+        "Build": "Batman Gangland",
+        "Date": "December 3, 2012"
+      },
+      {
+        "Title": "Batman Arkham Origins Online",
+        "Build": "Multiplayer Beta",
+        "Date": "July 11, 2013"
+      },
+      {
+        "Title": "Batman Disc Swap Test",
+        "Build": "",
+        "Date": "October 11, 2012"
+      },
+      {
+        "Title": "Battlefield 3",
+        "Build": "Multiplayer Beta",
+        "Date": "September 7, 2011"
+      },
+      {
+        "Title": "Battlefield 4",
+        "Build": "Multiplayer Beta",
+        "Date": "September 23, 2013"
+      },
+      {
+        "Title": "Battlefield 4",
+        "Build": "Warsaw Alpha Trial",
+        "Date": "June 04, 2013"
+      },
+      {
+        "Title": "Bioshock 2",
+        "Build": "",
+        "Date": "November 30, 2009"
+      },
+      {
+        "Title": "Black 2",
+        "Build": "",
+        "Date": "June 29, 2006"
+      },
+      {
+        "Title": "Black 2",
+        "Build": "",
+        "Date": "February 08, 2007"
+      },
+      {
+        "Title": "Blur",
+        "Build": "Multiplayer Beta",
+        "Date": "February 08, 2010"
+      },
+      {
+        "Title": "Blur 2",
+        "Build": "",
+        "Date": "November 08, 2010",
+        "Notes": "Edward2452"
+      },
+      {
+        "Title": "Blacksite",
+        "Build": "",
+        "Date": "August 15, 2007"
+      },
+      {
+        "Title": "Bulletstorm",
+        "Build": "v7059_135166",
+        "Date": "December 20, 2010"
+      },
+      {
+        "Title": "Bullet Witch",
+        "Build": "Review",
+        "Date": "January 10, 2007"
+      },
+      {
+        "Title": "Bullet Witch",
+        "Build": "Press Preview",
+        "Date": "November 02, 2006"
+      },
+      {
+        "Title": "Burnout Paradise",
+        "Build": "",
+        "Date": "February 22, 2007"
+      },
+      {
+        "Title": "Burnout Paradise",
+        "Build": "Pre-Alpha Franchise Build",
+        "Date": "November 10, 2006"
+      },
+      {
+        "Title": "Burnout Paradise",
+        "Build": "",
+        "Date": "October 31, 2007"
+      },
+      {
+        "Title": "Burnout Paradise",
+        "Build": "Screenshot",
+        "Date": "November 02, 2007"
+      },
+      {
+        "Title": "Burnout Paradise",
+        "Build": "Burnout_tcartwright",
+        "Date": "January 31, 2008"
+      },
+      {
+        "Title": "Call of Duty 2",
+        "Build": "",
+        "Date": "September 26, 2005"
+      },
+      {
+        "Title": "Call of Duty 2",
+        "Build": "",
+        "Date": "October 09, 2005"
+      },
+      {
+        "Title": "Call of Duty 2",
+        "Build": "",
+        "Date": "September 21, 2005"
+      },
+      {
+        "Title": "Call of Duty 2",
+        "Build": "",
+        "Date": "September 22, 2005"
+      },
+      {
+        "Title": "Call of Duty 2",
+        "Build": "",
+        "Date": "December 16, 2005"
+      },
+      {
+        "Title": "Call of Duty 2",
+        "Build": "",
+        "Date": "October 05, 2005"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare",
+        "Build": "Multiplayer Beta",
+        "Date": "July 25, 2007"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare",
+        "Build": "Pre-Alpha 253",
+        "Date": "March 23, 2007"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare",
+        "Build": "Pre-Alpha 270",
+        "Date": "April 11, 2007"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare",
+        "Build": "Pre-Alpha 290",
+        "Date": "May 04, 2007"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare",
+        "Build": "Pre-Alpha 328",
+        "Date": "June 11, 2007"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare",
+        "Build": "Final",
+        "Date": ""
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare 2",
+        "Build": "Alpha Build 482",
+        "Date": "July 13, 2009"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare 3",
+        "Build": "452",
+        "Date": "October 11, 2011"
+      },
+      {
+        "Title": "Call of Duty 4: Modern Warfare 3",
+        "Build": "mponly",
+        "Date": ""
+      },
+      {
+        "Title": "Call of Duty: Black Ops",
+        "Build": "Multiplayer Beta",
+        "Date": "September 04, 2010"
+      },
+      {
+        "Title": "Call of Duty: Black Ops",
+        "Build": "Multiplayer Beta",
+        "Date": "September 06, 2010"
+      },
+      {
+        "Title": "Call of Duty: Black Ops 2",
+        "Build": "Multiplayer Beta",
+        "Date": "August 21, 2012"
+      },
+      {
+        "Title": "Call of Duty: Black Ops 2",
+        "Build": "Alpha",
+        "Date": "July 20, 2012"
+      },
+      {
+        "Title": "Call of Duty: Black Ops 2",
+        "Build": "363 T6_greenlight_mp",
+        "Date": "November 15, 2011"
+      },
+      {
+        "Title": "Call of Duty: Black Ops 2",
+        "Build": "July_press_final",
+        "Date": "July 23, 2012"
+      },
+      {
+        "Title": "Call of Duty: Black Ops 2",
+        "Build": "mp_jan_milestone",
+        "Date": "January 21, 2012"
+      },
+      {
+        "Title": "Call of Duty: World at War",
+        "Build": "",
+        "Date": "March 27, 2007"
+      },
+      {
+        "Title": "Call of Duty: World at War",
+        "Build": "",
+        "Date": "May 11, 2007"
+      },
+      {
+        "Title": "Call of Duty: World at War",
+        "Build": "Multiplayer Beta",
+        "Date": "September 25, 2007"
+      },
+      {
+        "Title": "Call of Duty: World at War",
+        "Build": "1.0.1324",
+        "Date": "September 17, 2008"
+      },
+      {
+        "Title": "Call of Juarez: Bound in Blood",
+        "Build": "Preview",
+        "Date": "March 17, 2009"
+      },
+      {
+        "Title": "ChromeHounds",
+        "Build": "Preview",
+        "Date": "May 17, 2006"
+      },
+      {
+        "Title": "ChromeHounds",
+        "Build": "Demo",
+        "Date": "May 31, 2006"
+      },
+      {
+        "Title": "Condemned",
+        "Build": "Prototype XeDK 1",
+        "Date": "August 11, 2005"
+      },
+      {
+        "Title": "Condemned 2: Bloodshot",
+        "Build": "",
+        "Date": "December 08, 2007"
+      },
+      {
+        "Title": "Condemned 2: Bloodshot",
+        "Build": "",
+        "Date": "February 03, 2008"
+      },
+      {
+        "Title": "Council of 17",
+        "Build": "",
+        "Date": "July 13, 2009"
+      },
+      {
+        "Title": "Cipher Complex",
+        "Build": "",
+        "Date": "February 23, 2009"
+      },
+      {
+        "Title": "Crackdown",
+        "Build": "01.17.08.3103",
+        "Date": "September 01, 2005"
+      },
+      {
+        "Title": "Crackdown",
+        "Build": "01.22.03.3404",
+        "Date": "March 03, 2006",
+        "Notes": "Demon"
+      },
+      {
+        "Title": "Crackdown",
+        "Build": "01.22.03.0601",
+        "Date": "March 07, 2006",
+        "Notes": "Demon"
+      },
+      {
+        "Title": "Crackdown",
+        "Build": "01.22.03.2009",
+        "Date": "March 20, 2006"
+      },
+      {
+        "Title": "Crackdown",
+        "Build": "01.22.03.2204",
+        "Date": "March 21, 2006"
+      },
+      {
+        "Title": "Crackdown",
+        "Build": "01.22.04.0211",
+        "Date": "April 02, 2006"
+      },
+      {
+        "Title": "Crimson Dragon",
+        "Build": "",
+        "Date": "March 27, 2012"
+      },
+      {
+        "Title": "CryLiveFit Demo",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Crysis",
+        "Build": "",
+        "Date": "May 26, 2011"
+      },
+      {
+        "Title": "Crysis",
+        "Build": "",
+        "Date": "July 12, 2011"
+      },
+      {
+        "Title": "Crysis",
+        "Build": "",
+        "Date": "July 29, 2011"
+      },
+      {
+        "Title": "Crysis",
+        "Build": "",
+        "Date": "August 01, 2011"
+      },
+      {
+        "Title": "Crysis",
+        "Build": "Release",
+        "Date": "August 16, 2011"
+      },
+      {
+        "Title": "Crysis",
+        "Build": "",
+        "Date": "August 23, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5009",
+        "Date": "November 10, 2010",
+        "Notes": "Incomplete"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5311",
+        "Date": "December 14, 2010",
+        "Notes": "Incomplete"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5462 Internal",
+        "Date": "December 31, 2010",
+        "Notes": "TheNew corrupted it"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5510",
+        "Date": "January 05, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5585",
+        "Date": "January 09, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5608",
+        "Date": "January 11, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5642",
+        "Date": "January 14, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5652",
+        "Date": "January 16, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5669",
+        "Date": "January 17, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5672",
+        "Date": "January 18, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5685 Release",
+        "Date": "January 19, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5695",
+        "Date": "January 20, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5702",
+        "Date": "January 21, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5712",
+        "Date": "January 22, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5722",
+        "Date": "January 24, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5726",
+        "Date": "January 26, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5735 Release",
+        "Date": "January 27, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5754",
+        "Date": "January 20, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5782",
+        "Date": "February 07, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5792",
+        "Date": "February 08, 2011",
+        "Notes": "Incomplete"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5794",
+        "Date": "February 09, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5812",
+        "Date": "February 12, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5813",
+        "Date": "February 12, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5813_2",
+        "Date": "February 12, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5821",
+        "Date": "February 14, 2011",
+        "Notes": "Incomplete"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "5825",
+        "Date": "February 16, 2011"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "SP_ms1",
+        "Date": "December 12, 2012"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "Retaliation Map Pack (Beta DLC)",
+        "Date": ""
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "Takehome Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "0013 Test Level",
+        "Date": "May 31, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "0130",
+        "Date": "July 16, 2011"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "0685",
+        "Date": "January 31, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "0998",
+        "Date": "May 29, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1166",
+        "Date": "July 24, 2012",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1265",
+        "Date": "August 25, 2012",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1367",
+        "Date": "September 27, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1617",
+        "Date": "December 13, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1617 [Profile]",
+        "Date": "December 13, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1620 [Profile]",
+        "Date": "December 14, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1632",
+        "Date": "December 17, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1641 [Profile]",
+        "Date": "December 19, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1646 [Profile]",
+        "Date": "December 20, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1646 [Release]",
+        "Date": "December 20, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1651 [Release]",
+        "Date": "December 21, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1659",
+        "Date": "December 27, 2012"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1664 [Profile]",
+        "Date": "December 28, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1672 [Release]",
+        "Date": "December 29, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "1686",
+        "Date": "January 15, 2013"
+      },
+      {
+        "Title": "Crysis 3",
+        "Build": "Multiplayer Beta",
+        "Date": "January 04, 2013"
+      },
+      {
+        "Title": "Damage Inc",
+        "Build": "",
+        "Date": "April 17, 2012"
+      },
+      {
+        "Title": "Dance Central",
+        "Build": "Takehome Beta",
+        "Date": "August 10, 2010"
+      },
+      {
+        "Title": "Dance Central 2",
+        "Build": "Takehome Beta",
+        "Date": "July 25, 2011"
+      },
+      {
+        "Title": "Dark",
+        "Build": "",
+        "Date": "February 22, 2013",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Dark",
+        "Build": "",
+        "Date": "May 17, 2013"
+      },
+      {
+        "Title": "Dark Fathoms",
+        "Build": "Tech Demo",
+        "Date": "May 07, 2009"
+      },
+      {
+        "Title": "Dark Messiah Elements",
+        "Build": "",
+        "Date": "December 20, 2007"
+      },
+      {
+        "Title": "Dark Souls",
+        "Build": "Review Files",
+        "Date": ""
+      },
+      {
+        "Title": "Dark Void",
+        "Build": "",
+        "Date": "November 04, 2011"
+      },
+      {
+        "Title": "Dark Void",
+        "Build": "Preview",
+        "Date": "September 29, 2009"
+      },
+      {
+        "Title": "Daytona USA",
+        "Build": "",
+        "Date": "July 28, 2011"
+      },
+      {
+        "Title": "Daytona USA",
+        "Build": "",
+        "Date": "February 29, 2012"
+      },
+      {
+        "Title": "Daytona USA",
+        "Build": "",
+        "Date": "October 12, 2012"
+      },
+      {
+        "Title": "Daytona USA",
+        "Build": "",
+        "Date": "December 19, 2012"
+      },
+      {
+        "Title": "Daytona USA",
+        "Build": "",
+        "Date": "December 20, 2012"
+      },
+      {
+        "Title": "Dead Island",
+        "Build": "1.3.0 Debug Enabled Files",
+        "Date": ""
+      },
+      {
+        "Title": "Dead or Alive 4",
+        "Build": "E3 Beta",
+        "Date": "September 30, 2005"
+      },
+      {
+        "Title": "Dead or Alive 5",
+        "Build": "E3 Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Dead Rising 2",
+        "Build": "Debug Files",
+        "Date": ""
+      },
+      {
+        "Title": "Dead Rising 2",
+        "Build": "Case Zero Debug",
+        "Date": ""
+      },
+      {
+        "Title": "Dead Space",
+        "Build": "147415",
+        "Date": "August 29, 2008"
+      },
+      {
+        "Title": "Dead Space",
+        "Build": "Final Beta 3",
+        "Date": ""
+      },
+      {
+        "Title": "Dead Space 2",
+        "Build": "364906",
+        "Date": "November 19, 2010"
+      },
+      {
+        "Title": "Deep6",
+        "Build": "",
+        "Date": "July 10, 2009"
+      },
+      {
+        "Title": "Defiance",
+        "Build": "",
+        "Date": "November 30, 2012"
+      },
+      {
+        "Title": "Def Jam Icon",
+        "Build": "",
+        "Date": "January 22, 2007"
+      },
+      {
+        "Title": "Destiny",
+        "Build": "Beta",
+        "Date": "July 02, 2014"
+      },
+      {
+        "Title": "Deus Ex: Human Revolution",
+        "Build": "",
+        "Date": "April 12, 2011"
+      },
+      {
+        "Title": "Devil May Cry",
+        "Build": "",
+        "Date": "October 19, 2012",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Devil's Third",
+        "Build": "",
+        "Date": "January 17, 2012",
+        "Notes": "MrPinball64"
+      },
+      {
+        "Title": "Divinity 2",
+        "Build": "",
+        "Date": "September 24, 2009"
+      },
+      {
+        "Title": "DJ Hero 2",
+        "Build": "Alpha",
+        "Date": "July 06, 2010"
+      },
+      {
+        "Title": "DoDonPachi DaiFukkastu",
+        "Build": "TGS 2010 Jap",
+        "Date": "September 14, 2010"
+      },
+      {
+        "Title": "Dragon Age 2",
+        "Build": "Beta6-B Build testFR",
+        "Date": ""
+      },
+      {
+        "Title": "Dragon Ball Z Ultimate Tenkaichi",
+        "Build": "Debug",
+        "Date": "June 21, 2011"
+      },
+      {
+        "Title": "DREAM C CLUB ZERO",
+        "Build": "TGS 2010 Jap",
+        "Date": "September 14, 2010"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "February 17, 2011"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "February 23, 2011"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "March 24, 2011"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "April 21, 2011"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "May 30, 2011"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "July 11, 2011"
+      },
+      {
+        "Title": "Driver: San Francisco",
+        "Build": "",
+        "Date": "July 21, 2011"
+      },
+      {
+        "Title": "Duke Nukem Forever",
+        "Build": "Beta",
+        "Date": "April 08, 2011"
+      },
+      {
+        "Title": "Dungeon Siege 3",
+        "Build": "",
+        "Date": "March 09, 2011"
+      },
+      {
+        "Title": "ED09",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Elder Scrolls V: Dawnguard",
+        "Build": "Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Elveon",
+        "Build": "Milestone 3",
+        "Date": "August 30, 2007"
+      },
+      {
+        "Title": "Elveon",
+        "Build": "Milestone 6",
+        "Date": "November 01, 2007"
+      },
+      {
+        "Title": "Elveon",
+        "Build": "Milestone 10",
+        "Date": "April 07, 2008",
+        "Notes": "Riley541"
+      },
+      {
+        "Title": "Empire",
+        "Build": "working",
+        "Date": ""
+      },
+      {
+        "Title": "Empire",
+        "Build": "Freezes",
+        "Date": "December 01, 2008"
+      },
+      {
+        "Title": "Enchanted Arms",
+        "Build": "",
+        "Date": "July 18, 2006"
+      },
+      {
+        "Title": "Enemy Front",
+        "Build": "",
+        "Date": "January 31, 2012"
+      },
+      {
+        "Title": "Enemy Front",
+        "Build": "",
+        "Date": "October 08, 2013",
+        "Notes": "Riley541"
+      },
+      {
+        "Title": "Enemy Front",
+        "Build": "",
+        "Date": "October 10, 2013",
+        "Notes": "Riley541"
+      },
+      {
+        "Title": "Enemy Front",
+        "Build": "",
+        "Date": "October 17, 2013",
+        "Notes": "Riley541"
+      },
+      {
+        "Title": "Enemy Front",
+        "Build": "",
+        "Date": "October 29, 2013",
+        "Notes": "Riley541"
+      },
+      {
+        "Title": "Enemy Front",
+        "Build": "",
+        "Date": "October 31, 2013",
+        "Notes": "Riley541"
+      },
+      {
+        "Title": "Enslaved",
+        "Build": "Inhouse-Build",
+        "Date": ""
+      },
+      {
+        "Title": "EVOLVE",
+        "Build": "17947",
+        "Date": "October 24, 2012"
+      },
+      {
+        "Title": "EVOLVE",
+        "Build": "40688",
+        "Date": "September 28, 2012"
+      },
+      {
+        "Title": "Fable",
+        "Build": "Example Game",
+        "Date": "Unknown"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "Engine Test Code",
+        "Date": "Unknown"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "Engine Test Code",
+        "Date": "January 21, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "Engine Test Code",
+        "Date": "April 23, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "Engine Test Code",
+        "Date": "October 13, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "Engine Test Code",
+        "Date": "October 14, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "",
+        "Date": "February 25, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "",
+        "Date": "October 09, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "20131016ini",
+        "Date": "October 15, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "",
+        "Date": "October 16, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "",
+        "Date": "October 17, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "",
+        "Date": "October 29, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "V1104_HG5509_P36954_V4",
+        "Date": "November 05, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "V1106_HG5640_P37164enny",
+        "Date": "November 06, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "V1109_HG5791_P37496",
+        "Date": "November 09, 2013"
+      },
+      {
+        "Title": "Fable Anniversary",
+        "Build": "V1127_HG6243_P38012",
+        "Date": "November 27, 2013"
+      },
+      {
+        "Title": "FaceBreaker",
+        "Build": "Alpha 87",
+        "Date": "June 08, 2008"
+      },
+      {
+        "Title": "Far Cry 2",
+        "Build": "Press Review",
+        "Date": "September 23, 2008"
+      },
+      {
+        "Title": "Far Cry 3",
+        "Build": "FC3-MAIN-1540.7",
+        "Date": "October 17, 2012"
+      },
+      {
+        "Title": "Far Cry 3",
+        "Build": "Press Review",
+        "Date": "October 30, 2012"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "August 11, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "August 22, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "August 24, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "August 26, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "September 8, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "September 15, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "September 19, 2014"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "September 22, 2014"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "September 24, 2014",
+        "Notes": "Map doesn't load, but game boots"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "September 29, 2014",
+        "Notes": "Map doesn't load, but game boots"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "October 17, 2014"
+      },
+      {
+        "Title": "Far Cry 4",
+        "Build": "",
+        "Date": "March 17, 2015",
+        "Notes": "No XEX, data only"
+      },
+      {
+        "Title": "FM",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Football Manager",
+        "Build": "XeDK Beta 1",
+        "Date": ""
+      },
+      {
+        "Title": "Forza Horizon",
+        "Build": "E3",
+        "Date": "June 01, 2012"
+      },
+      {
+        "Title": "Forza 2",
+        "Build": "2.07.04.26.83200",
+        "Date": "April 27, 2007"
+      },
+      {
+        "Title": "Forza 3",
+        "Build": "2 Disc",
+        "Date": ""
+      },
+      {
+        "Title": "Frontlines: Fuel of War",
+        "Build": "",
+        "Date": "January 29, 2008"
+      },
+      {
+        "Title": "FUEL",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "FullAuto",
+        "Build": "Xenon Alpha Build",
+        "Date": "April 27, 2005"
+      },
+      {
+        "Title": "GalGun",
+        "Build": "TGS 2010 Jap",
+        "Date": "August 29, 2010",
+        "Notes": "OG 2020 Release Event"
+      },
+      {
+        "Title": "Gears of War 1",
+        "Build": "140448",
+        "Date": "September 04, 2006"
+      },
+      {
+        "Title": "Gears of War 1",
+        "Build": "",
+        "Date": "October 12, 2006"
+      },
+      {
+        "Title": "Gears of War 1",
+        "Build": "147895",
+        "Date": "January 22, 2007"
+      },
+      {
+        "Title": "Gears of War 1",
+        "Build": "Beta Review with Mouse - Keyboard Support",
+        "Date": ""
+      },
+      {
+        "Title": "Gears of War 2",
+        "Build": "Beta XeX File",
+        "Date": ""
+      },
+      {
+        "Title": "Gears of War 2",
+        "Build": "284673",
+        "Date": "September 14, 2008"
+      },
+      {
+        "Title": "Gears of War 2",
+        "Build": "",
+        "Date": "September 23, 2008"
+      },
+      {
+        "Title": "Gears of War 2",
+        "Build": "Demo 340444",
+        "Date": "May 08, 2009"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "739893",
+        "Date": "January 08, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "7987",
+        "Date": "March 02, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "",
+        "Date": "March 20, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "",
+        "Date": "March 25, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "875350",
+        "Date": "May 08, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "6772",
+        "Date": "June 03, 2010"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "Multiplayer Beta Downloader",
+        "Date": "April 25, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "Multiplayer Beta VIP Downloader",
+        "Date": "April 15, 2011"
+      },
+      {
+        "Title": "Gears of War 3",
+        "Build": "GoW3land XBOX_20120514I790FG",
+        "Date": "September 14, 2011"
+      },
+      {
+        "Title": "Gears of War Judgement",
+        "Build": "",
+        "Date": "January 08, 2013"
+      },
+      {
+        "Title": "Generator Rex",
+        "Build": "",
+        "Date": "Unknown",
+        "Notes": "Maybe Private"
+      },
+      {
+        "Title": "Generator Rex",
+        "Build": "",
+        "Date": "September 01, 2011"
+      },
+      {
+        "Title": "Generator Rex",
+        "Build": "",
+        "Date": "September 14, 2011"
+      },
+      {
+        "Title": "Generator Rex",
+        "Build": "",
+        "Date": "September 16, 2011"
+      },
+      {
+        "Title": "Generator Rex",
+        "Build": "",
+        "Date": "December 06, 2011"
+      },
+      {
+        "Title": "Generator Rex",
+        "Build": "",
+        "Date": "February 28, 2012"
+      },
+      {
+        "Title": "Geometry Wars Evolved",
+        "Build": "",
+        "Date": "November 02, 2005"
+      },
+      {
+        "Title": "Geometry Wars 3",
+        "Build": "Dimensions",
+        "Date": "November 11, 2014"
+      },
+      {
+        "Title": "Goat Simulator",
+        "Build": "",
+        "Date": "November 11, 2014"
+      },
+      {
+        "Title": "Godfather 2",
+        "Build": "",
+        "Date": "November 02, 2008"
+      },
+      {
+        "Title": "Godfather 2",
+        "Build": "",
+        "Date": "November 03, 2008"
+      },
+      {
+        "Title": "Golden Axe",
+        "Build": "",
+        "Date": "July 21, 2008"
+      },
+      {
+        "Title": "GoldenEye 007 Legends",
+        "Build": "",
+        "Date": "September 26, 2012"
+      },
+      {
+        "Title": "GoldenEye 007 Legends",
+        "Build": "",
+        "Date": "November 07, 2011",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "GoldenEye 007 Reloaded",
+        "Build": "",
+        "Date": "June 18, 2012",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "GoldenEye 007 Reloaded",
+        "Build": "",
+        "Date": "August 07, 2012",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "GoldenEye 007 Reloaded",
+        "Build": "",
+        "Date": "November 13, 2012",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "GoldenEye 007 Reloaded",
+        "Build": "",
+        "Date": "September 18, 2012",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "GoldenEye 007 Reloaded",
+        "Build": "",
+        "Date": "September 27, 2012"
+      },
+      {
+        "Title": "Golden Axe: Beast Rider",
+        "Build": "",
+        "Date": "July 21, 2008"
+      },
+      {
+        "Title": "Golden Axe: Beast Rider",
+        "Build": "14545",
+        "Date": "July 12, 2008"
+      },
+      {
+        "Title": "GTA 4",
+        "Build": "Debug xex",
+        "Date": ""
+      },
+      {
+        "Title": "Guilty Gear 2: Overture",
+        "Build": "",
+        "Date": "October 23, 2007"
+      },
+      {
+        "Title": "Gun Loco",
+        "Build": "TGS 2010",
+        "Date": "September 13, 2010"
+      },
+      {
+        "Title": "Halo 3",
+        "Build": "",
+        "Date": "March 7, 2007"
+      },
+      {
+        "Title": "Halo 3",
+        "Build": "",
+        "Date": "March 8, 2007"
+      },
+      {
+        "Title": "Halo 3",
+        "Build": "",
+        "Date": "March 9, 2007"
+      },
+      {
+        "Title": "Halo 3",
+        "Build": "",
+        "Date": "August 10, 2007"
+      },
+      {
+        "Title": "Halo 3",
+        "Build": "Epsilon",
+        "Date": "August 20, 2007"
+      },
+      {
+        "Title": "Halo 3",
+        "Build": "Multiplayer Beta",
+        "Date": "May 01, 2007"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "Network Test",
+        "Date": "May 05, 2007"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "E3 Keynote Demo",
+        "Date": "May 31, 2012"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "E3 SpartanOps Demo",
+        "Date": "May 31, 2012"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "E3 WarGame Demo",
+        "Date": "May 31, 2012"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "19057",
+        "Date": "August 19, 2012"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "21225",
+        "Date": "January 13, 2013"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "Untracked",
+        "Date": "November 13, 2013"
+      },
+      {
+        "Title": "Halo Mega Bloks",
+        "Build": "STL",
+        "Date": "September 27, 2013"
+      },
+      {
+        "Title": "Halo Reach",
+        "Build": "Multiplayer Beta",
+        "Date": "April 09, 2010"
+      },
+      {
+        "Title": "Halo Reach",
+        "Build": "Multiplayer Pre-Beta",
+        "Date": "March 25, 2010"
+      },
+      {
+        "Title": "Halo Wars",
+        "Build": "San Fran Showcase",
+        "Date": "November 06, 2008"
+      },
+      {
+        "Title": "Halo Wars",
+        "Build": "San Fran Stand Up Demo",
+        "Date": "November 06, 2008"
+      },
+      {
+        "Title": "Halo Wars",
+        "Build": "153945",
+        "Date": "December 12, 2008",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Harry Potter for Kinect",
+        "Build": "",
+        "Date": "August 03, 2012"
+      },
+      {
+        "Title": "Hero",
+        "Build": "GDC_AUSTINNotype-MININT N4M17L8",
+        "Date": "October 11, 2011"
+      },
+      {
+        "Title": "Hero",
+        "Build": "SentinelypeGame",
+        "Date": "November 4, 2011",
+        "Notes": "Broken"
+      },
+      {
+        "Title": "Homefront",
+        "Build": "Beta + DLC",
+        "Date": "",
+        "Notes": "MASSIVE SIZE"
+      },
+      {
+        "Title": "Homefront",
+        "Build": "Demo",
+        "Date": ""
+      },
+      {
+        "Title": "Homefront",
+        "Build": "Multiplayer Beta",
+        "Date": "May 20, 2011"
+      },
+      {
+        "Title": "Homefront",
+        "Build": "Multiplayer Beta",
+        "Date": "January 10, 2011"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "669594",
+        "Date": "November 28, 2011"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "673628",
+        "Date": "December 8, 2011"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "683717",
+        "Date": "January 16, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "699618",
+        "Date": "February 20, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "799531",
+        "Date": "September 11, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "806737",
+        "Date": "September 24, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "808218",
+        "Date": "September 26, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "837847",
+        "Date": "October 17, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "864354",
+        "Date": "November 14, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "866316",
+        "Date": "November 15, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "867105",
+        "Date": "November 15, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "873445",
+        "Date": "November 21, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "880217",
+        "Date": "November 27, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "893404",
+        "Date": "December 03, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "903252",
+        "Date": "December 12, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "908155",
+        "Date": "December 14, 2012"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "922492",
+        "Date": "January 17, 2013"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "992489",
+        "Date": "March 7, 2013"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "1026543",
+        "Date": "July 31, 2013"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "1030142",
+        "Date": "August 6, 2013"
+      },
+      {
+        "Title": "Homefront 2",
+        "Build": "Broken",
+        "Date": "2014"
+      },
+      {
+        "Title": "Hybrid",
+        "Build": "Multiplayer Beta",
+        "Date": "April 08, 2012"
+      },
+      {
+        "Title": "Import Tuner Challenge",
+        "Build": "Online Preview",
+        "Date": "August 25, 2006"
+      },
+      {
+        "Title": "Injustice Gods Among Us",
+        "Build": "",
+        "Date": "March 06, 2013"
+      },
+      {
+        "Title": "Iron Man 2",
+        "Build": "Debug",
+        "Date": ""
+      },
+      {
+        "Title": "John Woo Presents: Stranglehold",
+        "Build": "",
+        "Date": "August 17, 2008"
+      },
+      {
+        "Title": "Juiced 2",
+        "Build": "Pre-Alpha",
+        "Date": "August 23, 2005"
+      },
+      {
+        "Title": "Just Cause",
+        "Build": "Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Just Cause 2",
+        "Build": "Preview",
+        "Date": ""
+      },
+      {
+        "Title": "Just Cause 2",
+        "Build": "Review",
+        "Date": ""
+      },
+      {
+        "Title": "Kane and Lynch: Dead Men",
+        "Build": "",
+        "Date": "September 13, 2007"
+      },
+      {
+        "Title": "Killer Instinct",
+        "Build": "",
+        "Date": "May 17, 2013"
+      },
+      {
+        "Title": "Killer Instinct",
+        "Build": "",
+        "Date": "August 20, 2013"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "Rallyball",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "Rallyball noLSP",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "Rallyball - 10.09.09.59832.Main",
+        "Date": "September 09, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "Reflex Ridge",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "Reflex Ridge noLSP",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "River Rush",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "River Rush noLSP",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Kinect Adventures",
+        "Build": "Downloader",
+        "Date": "November 09, 2010"
+      },
+      {
+        "Title": "Kinect Dance Central",
+        "Build": "E3 Project Hammer",
+        "Date": "June 07, 2010"
+      },
+      {
+        "Title": "Kinect Joy Ride",
+        "Build": "Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Kinect Joy Ride",
+        "Build": "E3 Beta",
+        "Date": "June 07, 2010"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "BANTAM_DEV_Stable",
+        "Date": "January 17, 2012",
+        "Notes": "Gunz4Hire"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "MOLE_DEV_Microsoft",
+        "Date": "January 23, 2012",
+        "Notes": "Gunz4Hire"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "PIGLET_DEV_Microsoft",
+        "Date": "January 26, 2012",
+        "Notes": "Gunz4Hire"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "ROADRUNNER_DEV_Main",
+        "Date": "January 17, 2012",
+        "Notes": "Gunz4Hire"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "STINGRAY_DEV_FantasticMrFox",
+        "Date": "February 03, 2012",
+        "Notes": "Gunz4Hire"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "",
+        "Date": "August 24, 2012"
+      },
+      {
+        "Title": "Kinect Nat Geo TV",
+        "Build": "",
+        "Date": "November 6, 2012"
+      },
+      {
+        "Title": "Kinect PlayFit",
+        "Build": "Burn",
+        "Date": "January 12, 2012"
+      },
+      {
+        "Title": "Kinect PlayFit",
+        "Build": "Burn",
+        "Date": "January 24, 2012"
+      },
+      {
+        "Title": "Kinect Sesame Street TV",
+        "Build": "1.0.1287 Brooklyn Live",
+        "Date": "September 02, 2012"
+      },
+      {
+        "Title": "Kinect Sports",
+        "Build": "E3",
+        "Date": "June 10, 2010"
+      },
+      {
+        "Title": "Kinect Sports",
+        "Build": "Olympus Demo",
+        "Date": "September 07, 2010"
+      },
+      {
+        "Title": "Kinect Your Shape Fitness Evolved",
+        "Build": "E3",
+        "Date": "June 12, 2010"
+      },
+      {
+        "Title": "Kinectimals",
+        "Build": "E3",
+        "Date": "June 09, 2010"
+      },
+      {
+        "Title": "Kinectimals",
+        "Build": "",
+        "Date": "September 11, 2010"
+      },
+      {
+        "Title": "Kingdom Under Fire: Circle of Doom",
+        "Build": "",
+        "Date": "September 07, 2007"
+      },
+      {
+        "Title": "Kung Fu Panda",
+        "Build": "Preview",
+        "Date": ""
+      },
+      {
+        "Title": "Kung Fu Panda",
+        "Build": "",
+        "Date": "March 13, 2008"
+      },
+      {
+        "Title": "Kung Fu Strike",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Lego Star Wars II",
+        "Build": "Review",
+        "Date": ""
+      },
+      {
+        "Title": "Lego Star Wars:The Complete Saga",
+        "Build": "Review",
+        "Date": "September 25, 2007"
+      },
+      {
+        "Title": "Lichdom",
+        "Build": "",
+        "Date": "June 28, 2011"
+      },
+      {
+        "Title": "Loadout",
+        "Build": "Cancelled Online Game",
+        "Date": "May 23, 2012"
+      },
+      {
+        "Title": "Lost Odyssey",
+        "Build": "Preview Build",
+        "Date": ""
+      },
+      {
+        "Title": "Lost Planet: Colonies",
+        "Build": "",
+        "Date": "January 20, 2008"
+      },
+      {
+        "Title": "Lost Planet: Colonies",
+        "Build": "",
+        "Date": "March 10, 2008"
+      },
+      {
+        "Title": "Lost Planet 2",
+        "Build": "",
+        "Date": "December 10, 2009"
+      },
+      {
+        "Title": "Lost Planet 2",
+        "Build": "",
+        "Date": "January 27, 2010"
+      },
+      {
+        "Title": "Madagascar 3 - The Video Game",
+        "Build": "",
+        "Date": "March 03, 2012"
+      },
+      {
+        "Title": "Madden 09",
+        "Build": "Demo and DVD highlights",
+        "Date": ""
+      },
+      {
+        "Title": "Madden 11",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Mafia 2",
+        "Build": "Dongle Protected Jap",
+        "Date": "August 24, 2010"
+      },
+      {
+        "Title": "Majin & The Forsaken Kingdom",
+        "Build": "Debug",
+        "Date": ""
+      },
+      {
+        "Title": "Marvel Chaos",
+        "Build": "141364",
+        "Date": "October 17, 2007"
+      },
+      {
+        "Title": "Marvel vs Capcom Origins",
+        "Build": "",
+        "Date": "May 07, 2012"
+      },
+      {
+        "Title": "Mass Effect 2",
+        "Build": "",
+        "Date": "September 10, 2010"
+      },
+      {
+        "Title": "Mass Effect 3",
+        "Build": "Private Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Mass Effect 3",
+        "Build": "Unlocked Alpha",
+        "Date": ""
+      },
+      {
+        "Title": "Medal of Honor",
+        "Build": "Multiplayer Beta",
+        "Date": "July 13, 2010"
+      },
+      {
+        "Title": "Metro Last Light",
+        "Build": "",
+        "Date": "October 15, 2012"
+      },
+      {
+        "Title": "Metro Last Light",
+        "Build": "",
+        "Date": "December 03, 2012"
+      },
+      {
+        "Title": "Monochrome Tower",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Monopoly Streets",
+        "Build": "",
+        "Date": "July 7, 2010"
+      },
+      {
+        "Title": "Monopoly Plus",
+        "Build": "",
+        "Date": "June 27, 2014"
+      },
+      {
+        "Title": "Monster Madness",
+        "Build": "Preview",
+        "Date": "March 13, 2007"
+      },
+      {
+        "Title": "MotoGP 2007",
+        "Build": "Preview",
+        "Date": "April 17, 2007"
+      },
+      {
+        "Title": "MotoGP 2007",
+        "Build": "Online Preview Test Build",
+        "Date": "June 08, 2007"
+      },
+      {
+        "Title": "MotoGP 8",
+        "Build": "Preview",
+        "Date": ""
+      },
+      {
+        "Title": "MotoGP 10/11",
+        "Build": "Preview",
+        "Date": "November 30, 2010"
+      },
+      {
+        "Title": "MX vs ATV Untamed",
+        "Build": "Preview Code Test Build",
+        "Date": "September 28, 2007"
+      },
+      {
+        "Title": "Naruto Ultimate Ninja Storm 2",
+        "Build": "Debug",
+        "Date": ""
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Amplia 1",
+        "Date": "June 25, 2013",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Amplia 2",
+        "Date": "June 18, 2013",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "NatalFashion_javi",
+        "Date": "January 27, 2011",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "NF_javi",
+        "Date": "January 05, 2011",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "OME_App_JAVI",
+        "Date": "January 11, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "OME_App_maka",
+        "Date": "September 09, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "OME_Viewer_javi",
+        "Date": "December 16, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "OME_Viewer_maka",
+        "Date": "January 11, 2011",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_2010_05_21_JuneXDK",
+        "Date": "July 09, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_2010_05_21_JuneXDK_Fixed480_",
+        "Date": "July 09, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_2010_05_21_JuneXDK_Fixed480_N",
+        "Date": "July 15, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_alpha_2010_11_23",
+        "Date": "November 23, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_alpha_2010_12_17",
+        "Date": "December 17, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_Alpha_2010_12_18_UniformScales",
+        "Date": "December 17, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_Alpha_2010_12_18_UniformScales2",
+        "Date": "December 17, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_Alpha_VerticleSlice_2010_12_09",
+        "Date": "December 09, 2010",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "Stiletto_Alpha_VerticleSlice_2011_01_11",
+        "Date": "January 11, 2011",
+        "Notes": "TheNew"
+      },
+      {
+        "Title": "Natal Fashion",
+        "Build": "",
+        "Date": "February 01, 2011"
+      },
+      {
+        "Title": "Natal Sports",
+        "Build": "Beta",
+        "Date": "September 08, 2010"
+      },
+      {
+        "Title": "Need For Speed: Carbon",
+        "Build": "Review",
+        "Date": "September 19, 2006"
+      },
+      {
+        "Title": "Need for Speed: Hot Pursuit",
+        "Build": "AK SHOWTIME",
+        "Date": "September 02, 2010"
+      },
+      {
+        "Title": "Need For Speed: Most Wanted",
+        "Build": "CDMWEuropeGer",
+        "Date": ""
+      },
+      {
+        "Title": "Need For Speed: UnderCover",
+        "Build": "SpeedMilestoneOpt-enUS",
+        "Date": ""
+      },
+      {
+        "Title": "Need For Speed: The Run",
+        "Build": "DLC",
+        "Date": ""
+      },
+      {
+        "Title": "Need For Speed: ProStreet",
+        "Build": "Alpha Build 44.1",
+        "Date": "September 17, 2007"
+      },
+      {
+        "Title": "Need For Speed: ProStreet",
+        "Build": "3 1",
+        "Date": ""
+      },
+      {
+        "Title": "Ninety-Nine Nights",
+        "Build": "Preview",
+        "Date": "June 02, 2006"
+      },
+      {
+        "Title": "Ninja Gaiden 2",
+        "Build": "",
+        "Date": "March 20, 2008"
+      },
+      {
+        "Title": "Overlord",
+        "Build": "",
+        "Date": "April 26, 2007"
+      },
+      {
+        "Title": "Overlord",
+        "Build": "",
+        "Date": "May 12, 2007"
+      },
+      {
+        "Title": "OverLord 2",
+        "Build": "Preview",
+        "Date": "March 29, 2009"
+      },
+      {
+        "Title": "Prey",
+        "Build": "Final",
+        "Date": ""
+      },
+      {
+        "Title": "Prince of Persia: The Forgotten Sands",
+        "Build": "Review",
+        "Date": "April 23, 2010"
+      },
+      {
+        "Title": "Pro Evolution Soccer 2011",
+        "Build": "",
+        "Date": "August 30, 2010"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2211.4.2.2011",
+        "Date": "February 04, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2215.7.2.2011",
+        "Date": "February 07, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2216.7.2.2011",
+        "Date": "February 07, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2220.8.2.2011",
+        "Date": "February 08, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2233.10.2.2011",
+        "Date": "February 10, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2235.10.2.2011",
+        "Date": "February 10, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2336.7.3.2011",
+        "Date": "March 07, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2359.11.3.2011",
+        "Date": "March 11, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Kingdoms",
+        "Build": "2360.11.3.2011",
+        "Date": "March 11, 2011",
+        "Notes": "Cheese007"
+      },
+      {
+        "Title": "Project Milo",
+        "Build": "",
+        "Date": "May 17, 2010"
+      },
+      {
+        "Title": "Project Sylpheed",
+        "Build": "",
+        "Date": "April 04, 2007"
+      },
+      {
+        "Title": "Project Sylpheed",
+        "Build": "",
+        "Date": "May 07, 2007"
+      },
+      {
+        "Title": "RacingGenre",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Rayman Legends",
+        "Build": "",
+        "Date": "June 10, 2013"
+      },
+      {
+        "Title": "Rayman Legends",
+        "Build": "",
+        "Date": "June 24, 2013"
+      },
+      {
+        "Title": "Rayman Legends",
+        "Build": "",
+        "Date": "July 8, 2013"
+      },
+      {
+        "Title": "Red Faction: Armageddon",
+        "Build": "",
+        "Date": "March 17, 2011"
+      },
+      {
+        "Title": "Red Faction: Guerrilla",
+        "Build": "Open Beta",
+        "Date": ""
+      },
+      {
+        "Title": "Red Dead Redemption",
+        "Build": "Hunting and Trading Outfit Pack",
+        "Date": ""
+      },
+      {
+        "Title": "REEF",
+        "Build": "Crytek_Tech_Demo",
+        "Date": "June 29, 2011"
+      },
+      {
+        "Title": "Remember Me",
+        "Build": "CL172751",
+        "Date": "April 17, 2013"
+      },
+      {
+        "Title": "Resident Evil Biohazard 4",
+        "Build": "V0.99",
+        "Date": "May 22, 2009"
+      },
+      {
+        "Title": "Resident Evil Revelations 2",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Resident Evil 5",
+        "Build": "Preview",
+        "Date": "November 27, 2008"
+      },
+      {
+        "Title": "Resident Evil 5",
+        "Build": "Review",
+        "Date": "January 2009"
+      },
+      {
+        "Title": "Rock Band 3",
+        "Build": "Beta",
+        "Date": "August 07, 2010"
+      },
+      {
+        "Title": "Rogue Warrior",
+        "Build": "1.26",
+        "Date": "August 03, 2009"
+      },
+      {
+        "Title": "Ruse",
+        "Build": "",
+        "Date": "July 14, 2010"
+      },
+      {
+        "Title": "Ryse Son of Rome",
+        "Build": "",
+        "Date": "November 11, 2011"
+      },
+      {
+        "Title": "Ryse Son of Rome",
+        "Build": "00.11.19.59321 RuffKing",
+        "Date": "November 19, 2011"
+      },
+      {
+        "Title": "Ryse Son of Rome",
+        "Build": "00.11.29.59346 RuffKing",
+        "Date": "November 29, 2010"
+      },
+      {
+        "Title": "Ryse Son of Rome",
+        "Build": "00.12.01.59358 RuffKing",
+        "Date": "December 01, 2010"
+      },
+      {
+        "Title": "Ryse Son of Rome",
+        "Build": "00.01.07.59488 RuffKing",
+        "Date": "January 07, 2011"
+      },
+      {
+        "Title": "Ryse Son of Rome",
+        "Build": "691",
+        "Date": "July 19, 2012"
+      },
+      {
+        "Title": "Saboteur",
+        "Build": "",
+        "Date": "May 15, 2008"
+      },
+      {
+        "Title": "Saints Row",
+        "Build": "Pre-Order Disc",
+        "Date": ""
+      },
+      {
+        "Title": "Saints Row 4",
+        "Build": "Review",
+        "Date": "June 22, 2013"
+      },
+      {
+        "Title": "SBUS",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "SBK X - Superbike World Championship",
+        "Build": "",
+        "Date": "August 30, 2010"
+      },
+      {
+        "Title": "Scene It",
+        "Build": "LCA RC2",
+        "Date": "September 07, 2007"
+      },
+      {
+        "Title": "Section 8",
+        "Build": "",
+        "Date": "April 25, 2009"
+      },
+      {
+        "Title": "Section 8",
+        "Build": "S8-360-4286",
+        "Date": "August 20, 2009"
+      },
+      {
+        "Title": "Section 8",
+        "Build": "S8-360-4546",
+        "Date": "October 8, 2009"
+      },
+      {
+        "Title": "Section 8: Prejudice",
+        "Build": "TG09-360-176",
+        "Date": "January 18, 2010"
+      },
+      {
+        "Title": "Section 8: Prejudice",
+        "Build": "",
+        "Date": "August 16, 2010"
+      },
+      {
+        "Title": "Section 8: Prejudice",
+        "Build": "TG09-360-3134D",
+        "Date": "November 10, 2010"
+      },
+      {
+        "Title": "SEGA RALLY",
+        "Build": "Preview",
+        "Date": "July 26, 2007"
+      },
+      {
+        "Title": "SEGA RALLY",
+        "Build": "Review",
+        "Date": "August 20, 2007"
+      },
+      {
+        "Title": "Shaun White Snowboarding",
+        "Build": "Preview",
+        "Date": "October 21, 2008"
+      },
+      {
+        "Title": "Silent Hill Homecoming",
+        "Build": "18.5",
+        "Date": "June 19, 2008"
+      },
+      {
+        "Title": "Silent Hill V",
+        "Build": "Pre-Alpha v18.04",
+        "Date": ""
+      },
+      {
+        "Title": "Sincity",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Skate",
+        "Build": "Alpha 8 1.53.1 Preview",
+        "Date": "August 10, 2007"
+      },
+      {
+        "Title": "Sleeping Dogs",
+        "Build": "Press Review",
+        "Date": "June 22, 2012"
+      },
+      {
+        "Title": "Smackdown vs Raw 2009",
+        "Build": "",
+        "Date": "April 9, 2008"
+      },
+      {
+        "Title": "Smackdown vs Raw 2010",
+        "Build": "",
+        "Date": "March 2, 2009",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Smackdown vs Raw 2010",
+        "Build": "",
+        "Date": "April 1, 2009"
+      },
+      {
+        "Title": "Smackdown vs Raw 2011",
+        "Build": "",
+        "Date": "June 2, 2010"
+      },
+      {
+        "Title": "Sonic Generations",
+        "Build": "Review",
+        "Date": ""
+      },
+      {
+        "Title": "Sonic Sega All Stars Racing",
+        "Build": "Review",
+        "Date": ""
+      },
+      {
+        "Title": "Sonic Sega All Stars Racing",
+        "Build": "Preview",
+        "Date": "December 01, 2009"
+      },
+      {
+        "Title": "Sonic The Hedgehog",
+        "Build": "Demo",
+        "Date": ""
+      },
+      {
+        "Title": "Sonic Unleashed",
+        "Build": "Preview",
+        "Date": "August 31, 2008"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "814",
+        "Date": "August 26, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "858",
+        "Date": "November 08, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "859",
+        "Date": "November 09, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "860",
+        "Date": "November 10, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "861",
+        "Date": "November 11, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "862",
+        "Date": "November 12, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "863",
+        "Date": "November 13, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "864",
+        "Date": "November 14, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "865",
+        "Date": "November 15, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "870",
+        "Date": "November 20, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "873",
+        "Date": "November 23, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "875",
+        "Date": "November 25, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "876",
+        "Date": "November 26, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "877",
+        "Date": "November 26, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "877-2",
+        "Date": "November 27, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "878",
+        "Date": "November 28, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "879",
+        "Date": "November 29, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "880",
+        "Date": "November 30, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "881",
+        "Date": "December 01, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "882",
+        "Date": "December 02, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "883",
+        "Date": "December 03, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "884",
+        "Date": "December 04, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "885",
+        "Date": "December 05, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "888",
+        "Date": "December 08, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "889",
+        "Date": "December 10, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "890",
+        "Date": "December 11, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "891",
+        "Date": "December 12, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "892",
+        "Date": "December 13, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "893",
+        "Date": "December 14, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "895",
+        "Date": "December 16, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "896",
+        "Date": "December 17, 2012"
+      },
+      {
+        "Title": "South Park - The Stick of Truth",
+        "Build": "897",
+        "Date": "December 18, 2012"
+      },
+      {
+        "Title": "Spiderman 3",
+        "Build": "Debug",
+        "Date": "May 30, 2007"
+      },
+      {
+        "Title": "SplatterHouse",
+        "Build": "124352",
+        "Date": "June 28, 2010"
+      },
+      {
+        "Title": "SplatterHouse",
+        "Build": "xxxxxx",
+        "Date": "October 20, 2010"
+      },
+      {
+        "Title": "Star Wars BattleFront III",
+        "Build": "70217",
+        "Date": "March 17, 2008"
+      },
+      {
+        "Title": "Star Wars First Assault",
+        "Build": "Tech Beta",
+        "Date": "September 06, 2012"
+      },
+      {
+        "Title": "Star Wars The Force Unleashed",
+        "Build": "Demo",
+        "Date": "August 05, 2008"
+      },
+      {
+        "Title": "Stoked Big Air Edition",
+        "Build": "",
+        "Date": "February 26, 2010"
+      },
+      {
+        "Title": "Street Fighter X Tekken",
+        "Build": "",
+        "Date": "October 08, 2011"
+      },
+      {
+        "Title": "Street Fighter X Tekken",
+        "Build": "",
+        "Date": "January 15, 2012"
+      },
+      {
+        "Title": "Streets of Rage",
+        "Build": "Broken",
+        "Date": ""
+      },
+      {
+        "Title": "Strike Fighter",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Street Fighter IV",
+        "Build": "SF4CS FES BUILD 1017",
+        "Date": "September 22, 2008"
+      },
+      {
+        "Title": "Strider",
+        "Build": "Preview",
+        "Date": "December 09, 2013"
+      },
+      {
+        "Title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+        "Build": "Comic Con Build",
+        "Date": "July 10, 2013"
+      },
+      {
+        "Title": "Test Drive Unlimited",
+        "Build": "Beta 14.11A",
+        "Date": "June 06, 2006"
+      },
+      {
+        "Title": "The Avengers",
+        "Build": "",
+        "Date": "July 14, 2011"
+      },
+      {
+        "Title": "The Borne Conspiracy",
+        "Build": "Debug Translation",
+        "Date": "January 13, 2008",
+        "Notes": "Ngrst183"
+      },
+      {
+        "Title": "The Chronicles of Riddick: Assault on Dark Athena",
+        "Build": "",
+        "Date": "January 14, 2009"
+      },
+      {
+        "Title": "The Idolmaster",
+        "Build": "",
+        "Date": "September 14, 2020"
+      },
+      {
+        "Title": "The Incredible Hulk",
+        "Build": "",
+        "Date": "May 07, 2008"
+      },
+      {
+        "Title": "The Lord of The Rings: The Battle for Middle Earth II",
+        "Build": "Review",
+        "Date": "May 27, 2006"
+      },
+      {
+        "Title": "The Settlers Kingdoms of Anterria",
+        "Build": "",
+        "Date": "July 31, 2009"
+      },
+      {
+        "Title": "The Settlers Kingdoms of Anterria",
+        "Build": "",
+        "Date": "June 25, 2010"
+      },
+      {
+        "Title": "The Settlers Kingdoms of Anterria",
+        "Build": "Engine Test",
+        "Date": "September 4, 2009"
+      },
+      {
+        "Title": "The Simpsons Game",
+        "Build": "Review",
+        "Date": "September 28, 2007"
+      },
+      {
+        "Title": "The Sims 3: Pets",
+        "Build": "HH2 Pre-Alpha 410567",
+        "Date": "May 15, 2011"
+      },
+      {
+        "Title": "The Sims 3: Pets",
+        "Build": "HH2 Pre-Alpha 411729",
+        "Date": "May 19, 2011"
+      },
+      {
+        "Title": "The Sims 3: Pets",
+        "Build": "HH2 Alpha 414788",
+        "Date": "May 31, 2011"
+      },
+      {
+        "Title": "The Sims 3: Pets",
+        "Build": "",
+        "Date": "September 08, 2011"
+      },
+      {
+        "Title": "The Smurfs 2",
+        "Build": "",
+        "Date": "April 30, 2013"
+      },
+      {
+        "Title": "The Smurfs 2",
+        "Build": "",
+        "Date": "June 17, 2013"
+      },
+      {
+        "Title": "The Smurfs 2",
+        "Build": "",
+        "Date": "June 18, 2013"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "TalesD",
+        "Date": "March 11, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "DVD_X360_V2",
+        "Date": "October 07, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "DVD_X360",
+        "Date": "October 07, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "TalesDanS",
+        "Date": "October 07, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "DATA_X360_Compressed",
+        "Date": "October 15, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "X360_PAK",
+        "Date": "October 27, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "The Tale of Despereaux",
+        "Build": "X360_FULL",
+        "Date": "October 28, 2008",
+        "Notes": "Kabojnk"
+      },
+      {
+        "Title": "Tiger Woods PGA Tour 2006",
+        "Build": "Beta Kit",
+        "Date": ""
+      },
+      {
+        "Title": "Thief 4",
+        "Build": "4079_4102",
+        "Date": ""
+      },
+      {
+        "Title": "Thief 4",
+        "Build": "V3921",
+        "Date": ""
+      },
+      {
+        "Title": "Thrillville: Off The Rails",
+        "Build": "Beta",
+        "Date": "September 02, 2007"
+      },
+      {
+        "Title": "Timeshift",
+        "Build": "",
+        "Date": "September 12, 2007"
+      },
+      {
+        "Title": "Trials Fusion",
+        "Build": "",
+        "Date": "October 24, 2013"
+      },
+      {
+        "Title": "Trials Fusion",
+        "Build": "",
+        "Date": "March 31, 2014"
+      },
+      {
+        "Title": "Trials Fusion",
+        "Build": "",
+        "Date": "September 26, 2014"
+      },
+      {
+        "Title": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "Build": "Preview",
+        "Date": "January 21, 2006"
+      },
+      {
+        "Title": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "Build": "Print Review",
+        "Date": ""
+      },
+      {
+        "Title": "Tom Clancy's Ghost Recon Advanced Warfighter",
+        "Build": "Review",
+        "Date": "February 07, 2006"
+      },
+      {
+        "Title": "Tom Clancy's Ghost Recon Future Soldier",
+        "Build": "Multiplayer Beta",
+        "Date": "March 27, 2012"
+      },
+      {
+        "Title": "Tom Clancy's Rainbow 6 Vegas",
+        "Build": "Debug XEX",
+        "Date": ""
+      },
+      {
+        "Title": "Tom Clancy's Splinter Cell Blacklist",
+        "Build": "",
+        "Date": "February 01, 2013"
+      },
+      {
+        "Title": "Tom Clancy's Splinter Cell Blacklist",
+        "Build": "",
+        "Date": "June 18, 2013"
+      },
+      {
+        "Title": "Tom Clancy's Splinter Cell Blacklist",
+        "Build": "",
+        "Date": "June 20, 2013"
+      },
+      {
+        "Title": "Tom Clancy's Splinter Cell Conviction",
+        "Build": "2626",
+        "Date": "March 13, 2010"
+      },
+      {
+        "Title": "Tom Clancy's Splinter Cell Double Agent",
+        "Build": "",
+        "Date": "August 26, 2006"
+      },
+      {
+        "Title": "Tom Clancy's Splinter Cell Double Agent",
+        "Build": "",
+        "Date": "October 02, 2006"
+      },
+      {
+        "Title": "Tomb Raider",
+        "Build": "TR9_EA_SQ205007E02X11_682899Ar",
+        "Date": ""
+      },
+      {
+        "Title": "Turning Point - Fall of Liberty",
+        "Build": "",
+        "Date": "January 26, 2008"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "November 8, 2006"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "March 20, 2007"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "June 22, 2007"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "June 26, 2007"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "July 16, 2007"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "September 13, 2007"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "September 24, 2007"
+      },
+      {
+        "Title": "Turok",
+        "Build": "",
+        "Date": "October 8, 2007"
+      },
+      {
+        "Title": "Turok Evolution",
+        "Build": "Beta",
+        "Date": "",
+        "Notes": "XBE Only"
+      },
+      {
+        "Title": "Twisted Pixel Bundle",
+        "Build": "Early UI Test",
+        "Date": "",
+        "Notes": "ID patched"
+      },
+      {
+        "Title": "Unreal Tournament 3",
+        "Build": "",
+        "Date": "September 10, 2008"
+      },
+      {
+        "Title": "Unreal Tournament 3",
+        "Build": "284058",
+        "Date": "October 10, 2008"
+      },
+      {
+        "Title": "Unreal Tournament 3",
+        "Build": "",
+        "Date": "April 5, 2011"
+      },
+      {
+        "Title": "Vampire Rain",
+        "Build": "",
+        "Date": "March 21, 2007"
+      },
+      {
+        "Title": "Vancouver 2010",
+        "Build": "",
+        "Date": "November 06, 2010"
+      },
+      {
+        "Title": "Viruta Fighter 5",
+        "Build": "",
+        "Date": "August 15, 2007"
+      },
+      {
+        "Title": "Virtua Fighter 5",
+        "Build": "Preview",
+        "Date": "August 16, 2007"
+      },
+      {
+        "Title": "Wall-E",
+        "Build": "Test Build 304",
+        "Date": "April 24, 2008"
+      },
+      {
+        "Title": "Warface",
+        "Build": "577",
+        "Date": "November 29, 2009"
+      },
+      {
+        "Title": "Warface",
+        "Build": "581",
+        "Date": "December 1, 2009"
+      },
+      {
+        "Title": "Warface",
+        "Build": "584",
+        "Date": "December 3, 2009"
+      },
+      {
+        "Title": "Warface",
+        "Build": "1146785",
+        "Date": "May 11, 2014"
+      },
+      {
+        "Title": "Warface",
+        "Build": "1146943",
+        "Date": "May 12, 2014"
+      },
+      {
+        "Title": "Warface",
+        "Build": "1158500",
+        "Date": "June 15, 2014"
+      },
+      {
+        "Title": "Warface",
+        "Build": "1160690",
+        "Date": "June 23, 2014"
+      },
+      {
+        "Title": "Warface",
+        "Build": "1162827",
+        "Date": "July 02, 2014"
+      },
+      {
+        "Title": "Warface",
+        "Build": "Tech Demo",
+        "Date": "December 20, 2013"
+      },
+      {
+        "Title": "Warhammer 40,000K Space Marine",
+        "Build": "1.0.820",
+        "Date": "June 16, 2011",
+        "Notes": "Fix by Edward"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "August 5, 2013"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "August 12, 2013"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "August 28, 2013"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "September 17, 2013",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "September 21, 2013"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "October 3, 2013",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "January 15, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "January 17, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "February 10, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "February 14, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "February 19, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "February 20, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "February 25, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 1, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 12, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 25, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 26, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 27, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 28, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "March 31, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "1stsub-cg-package-7",
+        "Date": "March 31, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "April 1, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "April 2, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "April 3, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "April 4, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "April 8, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "April 14, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "watchdogs-cg-18",
+        "Date": "April 14, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "July 23, 2014",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "July 29, 2013"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "August 21, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "August 25, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "",
+        "Date": "August 26, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "Incomplete",
+        "Date": "August 30, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "XEX + DLC Folder",
+        "Date": "September 01, 2014"
+      },
+      {
+        "Title": "Watch Dogs",
+        "Build": "Press Kit",
+        "Date": ""
+      },
+      {
+        "Title": "World of Tanks",
+        "Build": "156039",
+        "Date": "November 13, 2013"
+      },
+      {
+        "Title": "World of Tanks",
+        "Build": "154774",
+        "Date": "October 16, 2013"
+      },
+      {
+        "Title": "World of Tanks",
+        "Build": "155345",
+        "Date": "October 29, 2013"
+      },
+      {
+        "Title": "WRC 2 FIA World Rally Championship",
+        "Build": "Preview",
+        "Date": "July 27, 2011"
+      },
+      {
+        "Title": "WWE '13",
+        "Build": "",
+        "Date": "November 10, 2011"
+      },
+      {
+        "Title": "WWE '13",
+        "Build": "",
+        "Date": "February 1, 2012"
+      },
+      {
+        "Title": "WWE '13",
+        "Build": "Debug",
+        "Date": ""
+      },
+      {
+        "Title": "WWE '13",
+        "Build": "PAL Summer Slam Demo",
+        "Date": ""
+      },
+      {
+        "Title": "X-Men The Official Game",
+        "Build": "Online Hands-On Preview Code",
+        "Date": "April 01, 2006"
+      },
+      {
+        "Title": "X-Men The Official Game",
+        "Build": "Beta Kit",
+        "Date": "November 02, 2005"
+      },
+      {
+        "Title": "X-Men The Official Game",
+        "Build": "Beta Kit",
+        "Date": "November 10, 2005"
+      },
+      {
+        "Title": "Yaiba Ninja Gaiden Z",
+        "Build": "",
+        "Date": "January 09, 2014"
+      }
+    ],
+    "Arcade": [
+      {
+        "Title": "1 vs 100",
+        "Build": "2.0.1167.0.02",
+        "Date": "December 07, 2009"
+      },
+      {
+        "Title": "1 vs 100",
+        "Build": "2.0.1317.0.02",
+        "Date": "April 14, 2010"
+      },
+      {
+        "Title": "AERO-CROSS",
+        "Build": "",
+        "Date": "November 26, 2010"
+      },
+      {
+        "Title": "Alan Wakes: American Nightmare",
+        "Build": "",
+        "Date": "May 18, 2011"
+      },
+      {
+        "Title": "Alien Breed 2 Assault",
+        "Build": "",
+        "Date": "January 11, 2010"
+      },
+      {
+        "Title": "Alien Breed 3 Descent",
+        "Build": "",
+        "Date": "July 16, 2010"
+      },
+      {
+        "Title": "Ancients of Ooga",
+        "Build": "",
+        "Date": "April 27, 2010"
+      },
+      {
+        "Title": "Anomaly Warzone Earth",
+        "Build": "",
+        "Date": "November 25, 2011"
+      },
+      {
+        "Title": "Avatar Laser Wars 2",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Awesomenauts",
+        "Build": "",
+        "Date": "November 09, 2011"
+      },
+      {
+        "Title": "Bang Bang Racing",
+        "Build": "",
+        "Date": "October 26, 2011"
+      },
+      {
+        "Title": "Battle LA",
+        "Build": "0.0.76890",
+        "Date": "January 31, 2011"
+      },
+      {
+        "Title": "Battle LA",
+        "Build": "0.0.77392",
+        "Date": "February 14, 2011"
+      },
+      {
+        "Title": "Battle LA",
+        "Build": "0.0.78176",
+        "Date": "February 28, 2011"
+      },
+      {
+        "Title": "BCG XBLA Test",
+        "Build": "",
+        "Date": "July 07, 2010"
+      },
+      {
+        "Title": "Black Knight Sword",
+        "Build": "",
+        "Date": "February 28, 2012"
+      },
+      {
+        "Title": "Blade Kitten",
+        "Build": "",
+        "Date": "June 24, 2010"
+      },
+      {
+        "Title": "Blood Knights",
+        "Build": "",
+        "Date": "February 13, 2013"
+      },
+      {
+        "Title": "Bomberman Live Battlefest",
+        "Build": "6080",
+        "Date": "May 27, 2010"
+      },
+      {
+        "Title": "Bonk: Brink of Extinction",
+        "Build": "",
+        "Date": "May 2010"
+      },
+      {
+        "Title": "Bonk: Brink of Extinction",
+        "Build": "",
+        "Date": "August 04, 2010"
+      },
+      {
+        "Title": "Boom Boom Rocket",
+        "Build": "",
+        "Date": "June 17, 2007"
+      },
+      {
+        "Title": "Brothers: A Tale of Two Sons",
+        "Build": "",
+        "Date": "April 02, 2013"
+      },
+      {
+        "Title": "Bug Bash",
+        "Build": "",
+        "Date": "March 12, 2011"
+      },
+      {
+        "Title": "Burnout CRASH",
+        "Build": "",
+        "Date": "May 12, 2011"
+      },
+      {
+        "Title": "Chime",
+        "Build": "",
+        "Date": "May 28, 2009"
+      },
+      {
+        "Title": "Choplifter HD",
+        "Build": "",
+        "Date": "December 07, 2011"
+      },
+      {
+        "Title": "Cloudberry Kingdom",
+        "Build": "",
+        "Date": "February 09, 2011"
+      },
+      {
+        "Title": "Combat Wings",
+        "Build": "",
+        "Date": "May 14, 2012"
+      },
+      {
+        "Title": "Comic Jumper",
+        "Build": "E3 Demo",
+        "Date": "June 10, 2010"
+      },
+      {
+        "Title": "Community Games Player Pack",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Counter-Strike GO",
+        "Build": "",
+        "Date": "June 07, 2012"
+      },
+      {
+        "Title": "Crazy Taxi",
+        "Build": "Beta 8",
+        "Date": "March 09, 2010"
+      },
+      {
+        "Title": "Crimson Alliance",
+        "Build": "",
+        "Date": "June 28, 2011"
+      },
+      {
+        "Title": "Darts VS Zombies",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Dead Rising 2: Case Zero",
+        "Build": "357455",
+        "Date": "June 07, 2010"
+      },
+      {
+        "Title": "Dead Rising 2: Case Zero",
+        "Build": "",
+        "Date": "July 08, 2010"
+      },
+      {
+        "Title": "Deadliest Warrior",
+        "Build": "1.0.0.270",
+        "Date": "April 02, 2010"
+      },
+      {
+        "Title": "Doodle Jump for Kinect",
+        "Build": "",
+        "Date": "May 28, 2013"
+      },
+      {
+        "Title": "Doom",
+        "Build": "",
+        "Date": "September 15, 2006"
+      },
+      {
+        "Title": "Doom",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Doom 2",
+        "Build": "",
+        "Date": "May 05, 2010"
+      },
+      {
+        "Title": "Doritos Crash Course",
+        "Build": "",
+        "Date": "June 01, 2010"
+      },
+      {
+        "Title": "Double Dragon 2",
+        "Build": "",
+        "Date": "July 26, 2011"
+      },
+      {
+        "Title": "Dungeon Defenders",
+        "Build": "",
+        "Date": "June 28, 2011"
+      },
+      {
+        "Title": "Duke Nukem: Manhattan Project",
+        "Build": "",
+        "Date": "April 27, 2010"
+      },
+      {
+        "Title": "Earthworm Jim HD",
+        "Build": "",
+        "Date": "April 27, 2010"
+      },
+      {
+        "Title": "FarCry Classic",
+        "Build": "",
+        "Date": "June 12, 2013"
+      },
+      {
+        "Title": "FarCry 3: Blood Dragon",
+        "Build": "Release",
+        "Date": "January 28, 2013"
+      },
+      {
+        "Title": "FarCry 3: Blood Dragon",
+        "Build": "Debug",
+        "Date": "January 28, 2013"
+      },
+      {
+        "Title": "FarCry 3: Blood Dragon",
+        "Build": "Release",
+        "Date": "March 13, 2013"
+      },
+      {
+        "Title": "Final Exam",
+        "Build": "",
+        "Date": "June 29, 2013"
+      },
+      {
+        "Title": "Flashback",
+        "Build": "",
+        "Date": "May 28, 2013",
+        "Notes": "INCOMPLETE"
+      },
+      {
+        "Title": "Flashback",
+        "Build": "",
+        "Date": "June 04, 2013"
+      },
+      {
+        "Title": "FLOCK!",
+        "Build": "0.6.18.26154.26092",
+        "Date": "March 10, 2009"
+      },
+      {
+        "Title": "Foul Play",
+        "Build": "",
+        "Date": "June 07, 2013"
+      },
+      {
+        "Title": "Fret Nice",
+        "Build": "",
+        "Date": "December 16, 2009"
+      },
+      {
+        "Title": "Fruit Ninja Kinect",
+        "Build": "",
+        "Date": "June 21, 2011"
+      },
+      {
+        "Title": "Full House Poker",
+        "Build": "",
+        "Date": "February 25, 2010"
+      },
+      {
+        "Title": "Gauntlet",
+        "Build": "PNET",
+        "Date": ""
+      },
+      {
+        "Title": "GoldenEye 007",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Green Corp",
+        "Build": "",
+        "Date": "January 21, 2010"
+      },
+      {
+        "Title": "Happy Action Theater",
+        "Build": "11.09.23.0600",
+        "Date": "September 23, 2011"
+      },
+      {
+        "Title": "Hard Corps Uprising",
+        "Build": "",
+        "Date": "April 28, 2010"
+      },
+      {
+        "Title": "Haunted House",
+        "Build": "",
+        "Date": "June 21, 2010"
+      },
+      {
+        "Title": "Hydrophobia",
+        "Build": "",
+        "Date": "March 08, 2010"
+      },
+      {
+        "Title": "I Am Alive",
+        "Build": "C135062_D135063",
+        "Date": "June 15, 2011"
+      },
+      {
+        "Title": "IloMilo",
+        "Build": "10.04.30.0002",
+        "Date": "April 30, 2010"
+      },
+      {
+        "Title": "IloMilo",
+        "Build": "10.06.04.0007",
+        "Date": "June 03, 2010"
+      },
+      {
+        "Title": "IloMilo",
+        "Build": "10.06.11.0008",
+        "Date": "June 11, 2010"
+      },
+      {
+        "Title": "Insanely Twisted Shadow Planet",
+        "Build": "",
+        "Date": "June 15, 2011"
+      },
+      {
+        "Title": "Jet Set Radio",
+        "Build": "",
+        "Date": "May 31, 2012"
+      },
+      {
+        "Title": "King of Fighters 2002 UM",
+        "Build": "",
+        "Date": "March 25, 2010"
+      },
+      {
+        "Title": "King of Fighters Sky Stage",
+        "Build": "",
+        "Date": "March 24, 2010"
+      },
+      {
+        "Title": "Lara Croft and The Guardian of Light",
+        "Build": "",
+        "Date": "June 25, 2010"
+      },
+      {
+        "Title": "Mad Riders",
+        "Build": "",
+        "Date": "January 06, 2012"
+      },
+      {
+        "Title": "Magrunner Dark Pulse",
+        "Build": "",
+        "Date": "July 05, 2013"
+      },
+      {
+        "Title": "Marble Blast Ultra",
+        "Build": "XNA Tech Demo",
+        "Date": "February 07, 2007"
+      },
+      {
+        "Title": "Metalocalypse Dethgame",
+        "Build": "",
+        "Date": "August 22, 2009"
+      },
+      {
+        "Title": "Mighty No 9",
+        "Build": "10499",
+        "Date": "June 14, 2015"
+      },
+      {
+        "Title": "Minecraft",
+        "Build": "",
+        "Date": "January 27, 2012"
+      },
+      {
+        "Title": "Minecraft",
+        "Build": "",
+        "Date": "February 01, 2012"
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "2WAYSTEST",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "BOUNCYCASTLE",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "DLC2",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "DLCBUILD",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "DLCMAPS",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "JC",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "MNCDLC",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "NEWBLITZ",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "Nightly Build",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "PLAYTEST",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UberPatch",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-BBERRY-PC",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-BHOLTON-PC",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-CLAW-PC",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-FSMITH-360",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-FSMITH-PAX",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-FSMITH-PAX2",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-LOGAN-LAPTOP",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "UE3-RGAFFNEY-PC",
+        "Date": ""
+      },
+      {
+        "Title": "Monday Night Combat",
+        "Build": "8171",
+        "Date": "May 10, 2011"
+      },
+      {
+        "Title": "Narco Terror",
+        "Build": "",
+        "Date": "June 12, 2013"
+      },
+      {
+        "Title": "Naughty Bear",
+        "Build": "PiP",
+        "Date": "July 12, 2013"
+      },
+      {
+        "Title": "NBA Jam",
+        "Build": "",
+        "Date": "June 23, 2010"
+      },
+      {
+        "Title": "NeoGeo Battle Coliseum",
+        "Build": "",
+        "Date": "December 14, 2009"
+      },
+      {
+        "Title": "Outland",
+        "Build": "",
+        "Date": "February 22, 2011"
+      },
+      {
+        "Title": "Pacific Rim",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "PAC-MAN",
+        "Build": "",
+        "Date": "May 24, 2006"
+      },
+      {
+        "Title": "PAC-MAN",
+        "Build": "",
+        "Date": "May 25, 2006"
+      },
+      {
+        "Title": "Perfect Dark",
+        "Build": "09.12.03.0033",
+        "Date": "December 03, 2009"
+      },
+      {
+        "Title": "Perfect Dark",
+        "Build": "10.03.04.0102",
+        "Date": "March 04, 2010"
+      },
+      {
+        "Title": "Poker Night 2",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Puddle",
+        "Build": "",
+        "Date": "November 04, 2011"
+      },
+      {
+        "Title": "Puzzle Chronicles",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Puzzle Quest 2",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Quake Arena Arcade",
+        "Build": "09.06.23.4520",
+        "Date": "June 23, 2009"
+      },
+      {
+        "Title": "Rayman Legends",
+        "Build": "Debug Files",
+        "Date": ""
+      },
+      {
+        "Title": "RayStorm HD",
+        "Build": "",
+        "Date": "October 02, 2009"
+      },
+      {
+        "Title": "Red Johnsons's Chronicles",
+        "Build": "OAA",
+        "Date": "April 03, 2012"
+      },
+      {
+        "Title": "Renegade Ops",
+        "Build": "",
+        "Date": "September 05, 2011"
+      },
+      {
+        "Title": "RISK Factions",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Rocket Knight",
+        "Build": "",
+        "Date": "March 15, 2010"
+      },
+      {
+        "Title": "Rotastic",
+        "Build": "",
+        "Date": "March 09, 2011"
+      },
+      {
+        "Title": "Sacred Citadel",
+        "Build": "",
+        "Date": ""
+      },
+      {
+        "Title": "Saints Row Moneyshot",
+        "Build": "1.0.0.1001",
+        "Date": "June 14, 2011"
+      },
+      {
+        "Title": "Sanctum 2",
+        "Build": "",
+        "Date": "March 10, 2013"
+      },
+      {
+        "Title": "ScaryGirl",
+        "Build": "",
+        "Date": "November 07, 2011"
+      },
+      {
+        "Title": "Scott Pilgrim",
+        "Build": "Files",
+        "Date": ""
+      },
+      {
+        "Title": "Scott Pilgrim",
+        "Build": "Review",
+        "Date": "April 08, 2010"
+      },
+      {
+        "Title": "Scrap Metal",
+        "Build": "",
+        "Date": "January 05, 2010"
+      },
+      {
+        "Title": "Serious Sam 3 BFE",
+        "Build": "",
+        "Date": "June 21, 2012"
+      },
+      {
+        "Title": "Sine Mora",
+        "Build": "",
+        "Date": "January 12, 2012"
+      },
+      {
+        "Title": "SkyDrift",
+        "Build": "",
+        "Date": "June 09, 2011"
+      },
+      {
+        "Title": "Sonic 4 Episode 1",
+        "Build": "",
+        "Date": "February 09, 2010"
+      },
+      {
+        "Title": "Sonic Adventure",
+        "Build": "",
+        "Date": "January 08, 2010"
+      },
+      {
+        "Title": "Space Ark",
+        "Build": "",
+        "Date": "May 11, 2010"
+      },
+      {
+        "Title": "Spelunky",
+        "Build": "",
+        "Date": "March 30, 2012"
+      },
+      {
+        "Title": "State of Decay",
+        "Build": "",
+        "Date": "May 08, 2013"
+      },
+      {
+        "Title": "Storm",
+        "Build": "",
+        "Date": "September 06, 2011"
+      },
+      {
+        "Title": "Street Fighter III Third Strike",
+        "Build": "",
+        "Date": "March 26, 2011"
+      },
+      {
+        "Title": "Super Meat Boy",
+        "Build": "",
+        "Date": "September 16, 2010"
+      },
+      {
+        "Title": "Surviving High School",
+        "Build": "Milestone 3",
+        "Date": "May 26, 2009"
+      },
+      {
+        "Title": "Surviving High School",
+        "Build": "Milestone 4",
+        "Date": "May 27, 2009"
+      },
+      {
+        "Title": "The Cave",
+        "Build": "Euro Press",
+        "Date": "November 28, 2012"
+      },
+      {
+        "Title": "The Raven",
+        "Build": "",
+        "Date": "July 03, 2013"
+      },
+      {
+        "Title": "Toy Soldiers",
+        "Build": "",
+        "Date": "January 19, 2010"
+      },
+      {
+        "Title": "Transcend",
+        "Build": "Alpha",
+        "Date": "August 28, 2009"
+      },
+      {
+        "Title": "Trials Evolution",
+        "Build": "",
+        "Date": "December 23, 2011"
+      },
+      {
+        "Title": "Unbound Saga",
+        "Build": "",
+        "Date": "September 20, 2010"
+      },
+      {
+        "Title": "Voodoo Dice",
+        "Build": "",
+        "Date": "May 12, 2010"
+      },
+      {
+        "Title": "Walking Dead",
+        "Build": "",
+        "Date": "March 09, 2012"
+      },
+      {
+        "Title": "Warlords",
+        "Build": "",
+        "Date": "January 29, 2012"
+      },
+      {
+        "Title": "Wolfenstein 3D",
+        "Build": "",
+        "Date": "April 29, 2009"
+      },
+      {
+        "Title": "Wolfenstein 3D",
+        "Build": "",
+        "Date": "May 01, 2009"
+      },
+      {
+        "Title": "Worms Revolution",
+        "Build": "",
+        "Date": "July 04, 2012"
+      },
+      {
+        "Title": "Worms Ultimate Mayhem",
+        "Build": "",
+        "Date": "August 25, 2011"
+      },
+      {
+        "Title": "WWE WrestleFest",
+        "Build": "",
+        "Date": "July 25, 2012"
+      },
+      {
+        "Title": "Xotic",
+        "Build": "",
+        "Date": "June 08, 2011"
+      },
+      {
+        "Title": "Zombie Apocalypse",
+        "Build": "NDA",
+        "Date": "August 19, 2011"
+      },
+      {
+        "Title": "Zuma's Revenge!",
+        "Build": "",
+        "Date": "April 10, 2012"
+      }
+    ],
+    "Apps": [
+      {
+        "Title": "bluesteel",
+        "Build": "4.18",
+        "Date": "August 10, 2006"
+      },
+      {
+        "Title": "Bluesteel",
+        "Build": "9429",
+        "Date": "July 28, 2009"
+      },
+      {
+        "Title": "Branding",
+        "Build": "",
+        "Date": "August 04, 2011"
+      },
+      {
+        "Title": "carbonsetup",
+        "Build": "",
+        "Date": "October 14, 2010"
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "ipTV Files only",
+        "Date": ""
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "0303_RC4_Release",
+        "Date": ""
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "MediaEnginePlayer",
+        "Date": ""
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "TestTunerApp",
+        "Date": ""
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "Tv2Client",
+        "Date": ""
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "Tv2Client Xbox 360 Nondebug",
+        "Date": ""
+      },
+      {
+        "Title": "ContosoTV",
+        "Build": "Tv2ClientXbox360",
+        "Date": ""
+      },
+      {
+        "Title": "Derelicte",
+        "Build": "9429",
+        "Date": "July 28, 2009"
+      },
+      {
+        "Title": "DRMGetCerts_X360",
+        "Build": "",
+        "Date": "10-13-2010"
+      },
+      {
+        "Title": "foxtel",
+        "Build": "",
+        "Date": "April 25, 2011"
+      },
+      {
+        "Title": "HDD_DataVerification",
+        "Build": "",
+        "Date": "July 28, 2009"
+      },
+      {
+        "Title": "HDD_SustainedTransferRates",
+        "Build": "",
+        "Date": "July 28, 2009"
+      },
+      {
+        "Title": "Hulu",
+        "Build": "",
+        "Date": "April 13, 2011"
+      },
+      {
+        "Title": "Hulu",
+        "Build": "gl_hulu_test/test/Deploy",
+        "Date": "November 19, 2011"
+      },
+      {
+        "Title": "Hulu",
+        "Build": "gl_hulu_test/test/DashPackage",
+        "Date": "",
+        "Notes": "Broken"
+      },
+      {
+        "Title": "HuluAppXbox",
+        "Build": "BetaSubmission",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "HuluAppXbox",
+        "Build": "BetaSubmission",
+        "Date": "February 21, 2012"
+      },
+      {
+        "Title": "HuluAppXbox",
+        "Build": "BetaSubmissionLoc",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "HuluAppXbox",
+        "Build": "Debug",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "HuluAppXbox",
+        "Build": "Submission",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "HuluAppXbox",
+        "Build": "Test",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "HuluAppXboxTest",
+        "Build": "BetaSubmission",
+        "Date": "February 21, 2012"
+      },
+      {
+        "Title": "HuluAppXboxTest",
+        "Build": "Debug",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "HuluAppXboxTest",
+        "Build": "Test",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "Hulu",
+        "Build": "1329_FINAL",
+        "Date": "November 19, 2011"
+      },
+      {
+        "Title": "Hulu",
+        "Build": "1329_FINAL_BetaSubmissionLoc",
+        "Date": "November 19, 2011"
+      },
+      {
+        "Title": "Hulu",
+        "Build": "2100_BetaSubLoc",
+        "Date": "December 09, 2011"
+      },
+      {
+        "Title": "IptvBootstrap",
+        "Build": "",
+        "Date": "September 28, 2011"
+      },
+      {
+        "Title": "IptvBootstrap",
+        "Build": "",
+        "Date": "May 10, 2012"
+      },
+      {
+        "Title": "libgstrm",
+        "Build": "",
+        "Date": "February 28, 2014"
+      },
+      {
+        "Title": "MediaEnginePlayer",
+        "Build": "",
+        "Date": "April 06, 2011"
+      },
+      {
+        "Title": "MessengerSetup",
+        "Build": "",
+        "Date": "October 19, 2011"
+      },
+      {
+        "Title": "Microsoft.Xbox.Samples.Video",
+        "Build": "",
+        "Date": "October 02, 2011"
+      },
+      {
+        "Title": "Netflix",
+        "Build": "",
+        "Date": "April 05, 2011"
+      },
+      {
+        "Title": "southbank",
+        "Build": "",
+        "Date": "February 22, 2011"
+      },
+      {
+        "Title": "TED",
+        "Build": "Sept19",
+        "Date": "September 02, 2011"
+      },
+      {
+        "Title": "Tv2Client",
+        "Build": "incomplete",
+        "Date": ""
+      },
+      {
+        "Title": "Tv2ClientXbox360",
+        "Build": "",
+        "Date": "August 13, 2012"
+      },
+      {
+        "Title": "websdk",
+        "Build": "",
+        "Date": "March 10, 2014"
+      },
+      {
+        "Title": "xngen",
+        "Build": "",
+        "Date": "June 10, 2011"
+      },
+      {
+        "Title": "xngen",
+        "Build": "",
+        "Date": "October 22, 2011"
+      },
+      {
+        "Title": "Xquite_EN",
+        "Build": "",
+        "Date": "October 14, 2010"
+      },
+      {
+        "Title": "Xquite_EN",
+        "Build": "",
+        "Date": "October 19, 2011"
+      },
+      {
+        "Title": "XUIPrototypeEPG",
+        "Build": "",
+        "Date": "September 21, 2011"
+      },
+      {
+        "Title": "YouTube",
+        "Build": "1327_FINAL",
+        "Date": "September 21, 2011"
+      },
+      {
+        "Title": "YouTube",
+        "Build": "1327_BetaSubmissionLoc",
+        "Date": "November 19, 2011"
+      },
+      {
+        "Title": "YouTube",
+        "Build": "2100_BetaSubLoc",
+        "Date": "December 09, 2011"
+      },
+      {
+        "Title": "YouTubeXbox",
+        "Build": "",
+        "Date": "November 19, 2011"
+      },
+      {
+        "Title": "YouTubeXbox",
+        "Build": "BetaSubmission",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "YouTubeXBox",
+        "Build": "BetaSubmission",
+        "Date": "February 21, 2012"
+      },
+      {
+        "Title": "YouTubeXBox",
+        "Build": "Debug",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "YouTubeXBoxTests",
+        "Build": "",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "YT",
+        "Build": "1309",
+        "Date": "November 13, 2011"
+      },
+      {
+        "Title": "ZUNE Beta",
+        "Build": "Chamaeleon",
+        "Date": "March 13, 2009"
+      }
+    ],
+    "DLC": [
+      {
+        "Title": "Alan Wake",
+        "Build": "DLC",
+        "Date": "September 15, 2010"
+      },
+      {
+        "Title": "Crysis 2",
+        "Build": "Retaliation Pack",
+        "Date": "April 07, 2011"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "Test DLC 1",
+        "Date": "August 25, 2012"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "Test DLC 2",
+        "Date": "August 25, 2012"
+      },
+      {
+        "Title": "Halo 4",
+        "Build": "Test DLC 3",
+        "Date": "August 25, 2012"
+      }
+    ]
   }
-]
+}
