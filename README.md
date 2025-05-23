@@ -74,35 +74,55 @@
 
 ---
 
-## Summary Table
+## Feature Summary
 
-| Feature                         | Status |
-|----------------------------------|--------|
-| Folder comparison                | ✅ Yes |
-| File hash/size diff              | ✅ Yes |
-| XEX metadata extraction          | ✅ Yes |
-| File preview/diff                | ✅ Yes |
-| Recent folders                   | ✅ Yes |
-| XDK file/folder browse           | ✅ Yes |
-| Upload/download (recursive)      | ✅ Yes |
-| Delete/create folders            | ✅ Yes |
-| Rename files/folders             | ❌ No  |
-| Drag-and-drop transfers          | ❌ No  |
-| Progress bars (folders)          | ❌ No  |
-| Manual XDK commands              | ✅ Yes |
-| Debug monitor (basic)            | ✅ Yes |
-| Set/remove breakpoints           | ✅ Yes |
-| Read/write/dump memory           | ✅ Yes |
-| Call stack/registers/disasm      | ❌ No  |
-| Symbol/source mapping            | ❌ No  |
-| Gamepad automation               | ✅ Yes |
-| Build DB fetch/scan              | ✅ Yes |
-| Download/extract/upload builds   | ✅ Yes |
-| Download resume/integrity check  | ❌ No  |
-| Mod database (Vault)             | ✅ Yes |
-| Mod install/management           | ❌ No  |
-| User authentication              | ❌ No  |
-| Logging/audit                    | ❌ No  |
-| Multi-console support            | ❌ No  |
-| Settings persistence             | ✅ Yes |
-| Dark mode                        | ✅ Yes |
+### ✅ Ready Features
+
+| Category             | Feature                                |
+|----------------------|-----------------------------------------|
+| File Comparison      | Folder comparison                       |
+|                      | File hash/size diff                     |
+|                      | XEX metadata extraction                 |
+|                      | File preview/diff                       |
+|                      | Recent folders                          |
+| Neighborhood (XDK)   | File/folder browsing                    |
+|                      | Upload/download (recursive)            |
+|                      | Delete/create folders                   |
+|                      | Manual XDK command support              |
+| Debug Monitor        | Breakpoint set/remove                   |
+|                      | Memory read/write/dump                  |
+|                      | Gamepad automation                      |
+| Build Database       | Fetch builds from remote DB             |
+|                      | Local build scan                        |
+|                      | Download/extract builds                 |
+|                      | Upload builds to console                |
+| Vault                | Mod list browsing                       |
+| Settings & UX        | Dark mode                               |
+|                      | Persistent settings (JSON)              |
+
+---
+
+### ❌ Not Ready Features
+
+| Category             | Feature                                |
+|----------------------|-----------------------------------------|
+| File Comparison      | Binary or line-by-line diff             |
+|                      | File merge support                      |
+|                      | Detailed comparison export              |
+| Neighborhood (XDK)   | Rename support                          |
+|                      | Drag-and-drop file transfers            |
+|                      | Progress bars for large ops             |
+|                      | Robust error handling                   |
+|                      | Multi-console management                |
+| Debug Monitor        | Call stack / register display           |
+|                      | Disassembly / source mapping            |
+|                      | Symbol resolution                       |
+|                      | Conditional / data breakpoints          |
+|                      | Debug scripting                         |
+| Build Database       | Mod/build integration                   |
+|                      | Download resume / hash verification     |
+| Vault                | Mod installation / management           |
+| General              | User authentication                     |
+|                      | Logging / auditing                      |
+|                      | Localization / accessibility            |
+
