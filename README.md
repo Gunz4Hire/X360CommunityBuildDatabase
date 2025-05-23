@@ -1,4 +1,4 @@
-# Xbox 360 Preservation Tool
+# XenScope - Xbox 360 Preservation Tool
 
 ## What the Tool Does
 
