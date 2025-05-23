@@ -1,121 +1,108 @@
-# Xbox 360 Preservation Tool - User Guide
-## Overview
-This Unity-based tool helps with Xbox 360 game preservation by providing several key features:
+# Xbox 360 Preservation Tool
 
-* Folder comparison to analyze differences between builds
+## What the Tool Does
 
-* XEX metadata extraction
+### 1. File Comparison and Analysis
+- **Compare Folders**: Add multiple folders (e.g., game builds) and compare their contents.
+- **File Hashing**: Computes MD5 hashes and sizes, highlighting differences and missing files.
+- **XEX Metadata Extraction**: Uses xextool to extract and display metadata from `.xex` files.
+- **Filtering**: Filter by file type (XEX, DDS, XMA, XML, etc.) and text.
+- **Preview and Diff**: Preview files and launch external diff tools (e.g., WinMerge).
+- **Recent Folders**: Remembers recently compared folders.
 
-* Build database integration
+### 2. Xbox Neighborhood Pro (XDK File Manager)
+- **Connect to Xbox 360 Dev/Test Kits** using XBDM protocol (via IP).
+- **Browse, upload, download, and delete** files/folders on the console.
+- **Recursive Upload/Download** support.
+- **Drive Info**: Show free space on console drives.
+- **Raw XDK Commands** and view responses.
+- **Debug Monitor Integration**: Launches a live debugging monitor.
 
-* Devkit exploration tools
+### 3. Debug Monitor
+- **System Info**: Threads, modules, memory regions, etc.
+- **Live Debug Events**: Breaks, exceptions, debug strings.
+- **Breakpoints**: Set and remove at specific addresses.
+- **Memory**: Read/write memory and dump regions to a file.
+- **Gamepad Automation**: Simulate input on the console.
 
-## Main Features
-### 1. Folder Comparison
-* Compare contents of multiple folders containing Xbox 360 game files
+### 4. Build Database
+- **Fetch Builds** from a remote JSON database.
+- **Track Owned Builds**: Scan local folders.
+- **Download/Extract** with progress.
+- **Upload to Console** after extraction.
 
-* Shows file matches/differences with MD5 hashes and sizes
+### 5. James 2452’s Vault
+- View a curated list of Xbox 360 mods with search and download links.
 
-* Displays visual indicators for matching (green) and different (yellow) files
+### 6. Settings
+- Configure paths for `xenia.exe`, `xextool.exe`.
+- Set default console IP/port.
+- Dark mode + JSON-based settings persistence.
 
-* Filter and sort files by name, size, or type
+---
 
-* Preview files directly in the tool (supports PNG, TXT, LUA)
+## What the Tool Does *Not* Do Yet
 
-### 2. XEX Metadata Analysis
-* Extract metadata from XEX files including:
+### File Comparison
+- ❌ No binary/line-by-line diff.
+- ❌ No file merge support.
+- ❌ No detailed comparison export.
 
-> Original PE name
+### Xbox Neighborhood Pro
+- ❌ No rename support.
+- ❌ No drag-and-drop transfers.
+- ❌ No progress bars for large folder ops.
+- ❌ No robust error handling.
+- ❌ No multi-console support.
 
-> Filetime (with date conversion)
+### Debug Monitor
+- ❌ No call stack/register display.
+- ❌ No disassembly/source mapping.
+- ❌ No symbol resolution.
+- ❌ No conditional/data breakpoints.
+- ❌ No debug scripting.
 
-> Title ID
+### Build Database
+- ❌ No mod/build integration.
+- ❌ No download resume or hash verification.
 
-> Version information
+### Vault
+- ❌ No mod management or user uploads.
 
-> Base version
+### General
+- ❌ No user auth, logging, multi-user, localization, or accessibility.
 
-* Compare timestamps between different XEX builds
+---
 
-* Launch XEX files directly in Xenia emulator
+## Summary Table
 
-### 3. Build Database
-* Fetch and view the community build database from GitHub
-
-* Search and filter builds by title, date, version or notes
-
-* View detailed information about specific builds
-
-* Toggle between raw JSON view and formatted table view
-
-### 4. Devkit Explorer
-* Basic interface for exploring Xbox 360 devkit modules
-
-* View module versions and information
-
-* (Note: This section appears to be a placeholder for future expansion)
-
-## How to Use
-### Basic Workflow:
-1. **Add Folders:** Click "Add Folder" to select folders containing Xbox 360 game files
-
-2. **Configure Paths:**
-
-> Set path to Xenia emulator (for direct XEX launching)
-
-> Set path to xextool.exe (for XEX metadata extraction)
-
-3. **Run Comparison:** Click "Run Comparison" to analyze the folders
-
-4. Review Results:
-
-> View XEX metadata in the top section
-
-> See file differences in the comparison table
-
-> Click on files to preview them
-
-## Build Database Usage:
-1. Enter the GitHub JSON URL (default is pre-filled)
-
-2. Click "Fetch" to load the database
-
-3. Search or browse through builds
-
-4. Click on entries to view detailed information
-
-## Previewing Files:
-* Click any filename in the comparison table
-
-* A popup will show the file contents (for supported types)
-
-* Use tabs to view different versions of the file from each folder
-
-## Requirements
-* Unity (for the editor version)
-
-* xextool.exe for XEX metadata extraction
-
-* Xenia emulator (optional, for direct XEX launching)
-
-## GitHub Integration
-The tool can directly fetch and display build information from:
-
-> https://github.com/Gunz4Hire/X360CommunityBuildDatabase/blob/main/X360CommunityBuildDatabase.json
-## Tips
-* The tool remembers your Xenia and xextool paths between sessions
-
-* Use the filter to quickly find specific files
-
-* Sort by size to identify large differences between builds
-
-* The "Current Folder Only" toggle helps focus on one build at a time
-
-## Limitations
-* Currently only previews PNG, TXT and LUA files
-
-* Some features require specific tool paths to be set
-
-* Devkit Explorer is currently a basic placeholder
-
-This tool is designed to assist in Xbox 360 game preservation efforts by making it easier to compare different builds and analyze their contents.
+| Feature                         | Status |
+|----------------------------------|--------|
+| Folder comparison                | ✅ Yes |
+| File hash/size diff              | ✅ Yes |
+| XEX metadata extraction          | ✅ Yes |
+| File preview/diff                | ✅ Yes |
+| Recent folders                   | ✅ Yes |
+| XDK file/folder browse           | ✅ Yes |
+| Upload/download (recursive)      | ✅ Yes |
+| Delete/create folders            | ✅ Yes |
+| Rename files/folders             | ❌ No  |
+| Drag-and-drop transfers          | ❌ No  |
+| Progress bars (folders)          | ❌ No  |
+| Manual XDK commands              | ✅ Yes |
+| Debug monitor (basic)            | ✅ Yes |
+| Set/remove breakpoints           | ✅ Yes |
+| Read/write/dump memory           | ✅ Yes |
+| Call stack/registers/disasm      | ❌ No  |
+| Symbol/source mapping            | ❌ No  |
+| Gamepad automation               | ✅ Yes |
+| Build DB fetch/scan              | ✅ Yes |
+| Download/extract/upload builds   | ✅ Yes |
+| Download resume/integrity check  | ❌ No  |
+| Mod database (Vault)             | ✅ Yes |
+| Mod install/management           | ❌ No  |
+| User authentication              | ❌ No  |
+| Logging/audit                    | ❌ No  |
+| Multi-console support            | ❌ No  |
+| Settings persistence             | ✅ Yes |
+| Dark mode                        | ✅ Yes |
