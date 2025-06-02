@@ -1,5 +1,6 @@
 # XenScope - Xbox 360 Preservation Tool
-![Xenscope Transparent](https://github.com/user-attachments/assets/ba1048f5-957f-4361-8a88-e77c2423eb74)
+[newbackground](https://github.com/user-attachments/assets/a223086f-04e1-4ff3-b1e5-5bcbbea67e36)
+
 
 ## What the Tool Does
 
