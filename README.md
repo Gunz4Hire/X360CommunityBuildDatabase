@@ -1,4 +1,4 @@
-# XenScope - Xbox 360 Preservation Tool
+# XenScope - Xbox 360 Development Toolkit
 
 ![newbackground](https://github.com/user-attachments/assets/3a6ff2ee-94f9-477e-b4d0-d186d371d29a)
 
