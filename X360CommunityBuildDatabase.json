@@ -27,8 +27,8 @@
         "Build": "503622",
         "Date": "September 16, 2010",
         "Notes": "TheNew",
-        "ImageUrl": "https://i.imgur.com/GJn8yW9.jpg",  // Changed to direct image URL
-        "VideoUrl": "https://www.youtube.com/embed/6KJ3Ux_AWa8"  // Removed ?si parameter
+        "ImageUrl": "https://i.imgur.com/GJn8yW9.jpg",
+        "VideoUrl": "https://www.youtube.com/embed/6KJ3Ux_AWa8"
       }
       {
         "Title": "Aliens Versus Predator 3",
