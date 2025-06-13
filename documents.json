@@ -1,0 +1,60 @@
+{
+  "documents": [
+    {
+      "title": "Xbox 360 System Software",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_System_Software",
+      "lastUpdated": "2023-10-15",
+      "category": "System",
+      "description": "Detailed documentation about the Xbox 360 system software architecture and components."
+    },
+    {
+      "title": "Xbox 360 Kernel",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_Kernel",
+      "lastUpdated": "2023-09-28",
+      "category": "Kernel",
+      "description": "Comprehensive guide to the Xbox 360 kernel architecture and functions."
+    },
+    {
+      "title": "Xbox 360 Hypervisor",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_Hypervisor",
+      "lastUpdated": "2023-11-02",
+      "category": "Security",
+      "description": "In-depth analysis of the Xbox 360 hypervisor and security model."
+    },
+    {
+      "title": "Xbox 360 File System",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_File_System",
+      "lastUpdated": "2023-08-17",
+      "category": "Storage",
+      "description": "Documentation of the Xbox 360 file system structure and operations."
+    },
+    {
+      "title": "Xbox 360 XEX Format",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_XEX_Format",
+      "lastUpdated": "2023-10-05",
+      "category": "Executables",
+      "description": "Complete specification of the Xbox 360 executable (XEX) file format."
+    },
+    {
+      "title": "Xbox 360 XDK Tools",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_XDK_Tools",
+      "lastUpdated": "2023-07-22",
+      "category": "Development",
+      "description": "Reference for Xbox 360 XDK tools and their usage."
+    },
+    {
+      "title": "Xbox 360 Networking",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_Networking",
+      "lastUpdated": "2023-09-10",
+      "category": "Network",
+      "description": "Documentation of Xbox 360 networking protocols and services."
+    },
+    {
+      "title": "Xbox 360 Security System",
+      "url": "https://wiki.alphaarchive.net/wiki/Xbox_360_Security_System",
+      "lastUpdated": "2023-11-12",
+      "category": "Security",
+      "description": "Detailed breakdown of the Xbox 360 security subsystems and mechanisms."
+    }
+  ]
+}
